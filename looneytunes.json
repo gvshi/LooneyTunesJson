@@ -1,298 +1,1074 @@
 [
     {
-        "date": "2023-09-17",
+        "date": "2023-09-19",
         "programs": [
             {
-                "id": "Looney Tunes-Hoppy-Go-Lucky",
+                "id": "Looney Tunes-A Squeak in the Deep",
                 "title": "Looney Tunes",
-                "date": "2023-09-17",
-                "start_date": "06:28",
-                "end_date": "06:35",
-                "runtime": 7,
-                "description": "Silvestre y su amigo Benny buscan ratones en el dep\u00f3sito de la zona.",
-                "episode_title": "Hoppy-Go-Lucky",
-                "release_year": "1952",
+                "date": "2023-09-19",
+                "start_date": "06:27",
+                "end_date": "06:33",
+                "runtime": 6,
+                "description": "Tanto Speedy Gonz\u00e1lez como el pato Lucas se inscriben en una carrera de botes y compiten para ganar la carrera.",
+                "episode_title": "A Squeak in the Deep",
+                "release_year": "1966",
                 "status": [
                     {
-                        "title": "Hoppy-Go-Lucky - Sylvester, Benny, Hippety Hopper (uncensored) (1080p HBOMax).mkv",
-                        "date": "1952-08-09",
-                        "year": "1952",
-                        "peso": "424.03"
+                        "title": "A Squeak In The Deep - Daffy Duck, Speedy Gonzales - 1080p (MeTV version w logo).mp4",
+                        "date": "1966-07-19",
+                        "year": "1966",
+                        "peso": "158.95"
                     }
                 ],
-                "episode": 2162554,
+                "episode": 2199775,
                 "season": 1,
-                "image": "https://image.tmdb.org/t/p/w500/1ULPw4SwDflubNhubSGbG5n9rpW.jpg",
-                "titulo_es": "Hoppy-Go-Lucky",
+                "image": "https://image.tmdb.org/t/p/w500/aCkb0KsOaZQ2wL965BCB0zMvT0S.jpg",
+                "titulo_es": "A Squeak in the Deep",
                 "repetido": false
             },
             {
-                "id": "Looney Tunes-Hush My Mouse",
+                "id": "Looney Tunes-Wagon Heels",
                 "title": "Looney Tunes",
-                "date": "2023-09-17",
-                "start_date": "06:35",
-                "end_date": "06:43",
+                "date": "2023-09-19",
+                "start_date": "06:33",
+                "end_date": "06:41",
                 "runtime": 8,
-                "description": "Entra a la taberna Tuffy un hombre rudo llamado Edward G. Robincat para comer el especial del d\u00eda, Nudillos de Rat\u00f3n. El tabernero, Art, env\u00eda a Filligan, tonto y sumiso, a atrapar a un rat\u00f3n muy charlat\u00e1n: Sniffles.",
-                "episode_title": "Hush My Mouse",
-                "release_year": "1946",
+                "description": "Porky es un explorador a cargo de un vag\u00f3n de tren que atraviesa un territorio donde habita gente hostil.",
+                "episode_title": "Wagon Heels",
+                "release_year": "1945",
                 "status": [
                     {
-                        "title": "Hush My Mouse - Sniffles (1080p HBOMax).mkv",
-                        "date": "1946-05-04",
-                        "year": "1946",
-                        "peso": "461.04"
+                        "title": "Wagon Heels - Porky; Color remake of Injun Trouble (1938) (DVD).mkv",
+                        "date": "1945-07-28",
+                        "year": "1945",
+                        "peso": "304.35"
                     }
                 ],
-                "episode": 2110796,
+                "episode": 2195356,
                 "season": 1,
-                "image": "https://image.tmdb.org/t/p/w500/s8KLDC6GkEr89m1M7fTvoZ8GfkP.jpg",
-                "titulo_es": "Callen a ese rat\u00f3n",
+                "image": "https://image.tmdb.org/t/p/w500/jn00uO7e88EihPIdftqO4LINNP1.jpg",
+                "titulo_es": "Wagon Heels",
                 "repetido": false
             },
             {
-                "id": "Looney Tunes-Fair-Haired Hare",
+                "id": "Looney Tunes-A Bone for a Bone",
                 "title": "Looney Tunes",
-                "date": "2023-09-17",
-                "start_date": "06:43",
-                "end_date": "06:52",
+                "date": "2023-09-19",
+                "start_date": "06:41",
+                "end_date": "06:50",
                 "runtime": 9,
-                "description": "Se desata una pelea por los derechos de propiedad cuando Sam Bigotes construye su casa sobre la casa subterr\u00e1nea de Bugs Bunny.",
-                "episode_title": "Fair Haired Hare",
+                "description": "El primer dibujo animado de los roedores Goofy Gophers. En \u00e9l se expresa la sofisticaci\u00f3n de su insensatez. Eso es hasta que un perro quiere enterrar su hueso en el hogar de los roedores.",
+                "episode_title": "A Bone for a Bone",
                 "release_year": "1951",
                 "status": [
                     {
-                        "title": "The Fair Haired Hare - Bugs Bunny, Yosemite Sam (uncensored) (1080p HBOMax).mkv",
-                        "date": "1951-04-14",
+                        "title": "A Bone For A Bone - Goofy Gophers (uncensored) (1080p HBOMax).mkv",
+                        "date": "1951-04-07",
                         "year": "1951",
-                        "peso": "445.11"
+                        "peso": "433.10"
                     }
                 ],
-                "episode": 1973853,
+                "episode": 2239730,
                 "season": 1,
-                "image": "https://image.tmdb.org/t/p/w500/iXDx2gb0uW45Z0lm8X3DzVFLA3K.jpg",
-                "titulo_es": "The Fair Haired Hare",
+                "image": "https://image.tmdb.org/t/p/w500/6W6TxLAING4O0ub37OGrQ9n90GU.jpg",
+                "titulo_es": "A Bone for a Bone",
                 "repetido": false
             },
             {
-                "id": "Looney Tunes-Stork Naked",
+                "id": "Looney Tunes-Sleepy Time Possum",
                 "title": "Looney Tunes",
-                "date": "2023-09-17",
-                "start_date": "06:52",
-                "end_date": "06:59",
+                "date": "2023-09-19",
+                "start_date": "06:50",
+                "end_date": "06:57",
                 "runtime": 7,
-                "description": "La cig\u00fce\u00f1a tiene un d\u00eda ajetreado porque debe entregar muchos beb\u00e9s a sus familias. El pato Lucas tambi\u00e9n espera su pedido, pero est\u00e1 listo para mantener a la cig\u00fce\u00f1a bien lejos de su casa.",
-                "episode_title": "Stork Naked",
-                "release_year": "1955",
+                "description": "Mam\u00e1 y Pap\u00e1 zarig\u00fceya tratan de evitar que su hijo duerma todo el tiempo.",
+                "episode_title": "Sleepy Time Possum",
+                "release_year": "1951",
                 "status": [
                     {
-                        "title": "Stork Naked - Daffy Duck, Daphne, drunk stork (1080p HBOMax Latin America).mkv",
-                        "date": "1955-02-26",
-                        "year": "1955",
-                        "peso": "415.03"
+                        "title": "Sleepy Time Possum (1080p HBOMax).mkv",
+                        "date": "1951-11-03",
+                        "year": "1951",
+                        "peso": "427.07"
                     }
                 ],
-                "episode": 2162557,
+                "episode": 2418624,
                 "season": 1,
-                "image": "https://image.tmdb.org/t/p/w500/lwFr3cyoZfLM6N4NgchJ2SQr0wF.jpg",
-                "titulo_es": "Stork Naked",
+                "image": "https://image.tmdb.org/t/p/w500/m2d4QBDB5azPzPMy7OJmcnOEFeu.jpg",
+                "titulo_es": "Sleepy Time Possum",
                 "repetido": false
             },
             {
-                "id": "Looney Tunes-Double or Mutton",
+                "id": "Looney Tunes-Dog Pounded",
                 "title": "Looney Tunes",
-                "date": "2023-09-17",
-                "start_date": "06:59",
-                "end_date": "07:06",
+                "date": "2023-09-19",
+                "start_date": "06:57",
+                "end_date": "07:03",
+                "runtime": 6,
+                "description": "Piol\u00edn se queda c\u00f3modamente dentro de su nido, que en realidad est\u00e1 en el medio del jard\u00edn donde vive un perro. Silvestre debe tratar de descubrir un modo de escapar con \u00e9xito de todos los perros para llegar a Piol\u00edn.",
+                "episode_title": "Dog Pounded",
+                "release_year": "1954",
+                "status": [
+                    {
+                        "title": "Dog Pounded - Sylvester, Tweety, Granny, multiple Hectors, Pepe LePew cameo (1080p HBOMax).mkv",
+                        "date": "1954-01-02",
+                        "year": "1954",
+                        "peso": "407.61"
+                    }
+                ],
+                "episode": 2149704,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/wcpYeJsOBL44UZyqAceiVAl8w7W.jpg",
+                "titulo_es": "Dog Pounded",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Run, Run, Sweet Road Runner",
+                "title": "Looney Tunes",
+                "date": "2023-09-19",
+                "start_date": "07:03",
+                "end_date": "07:10",
                 "runtime": 7,
-                "description": "El perro Sam Sheepdog intenta detener al lobo Ralph Wolf, quien quiere robarse las ovejas.",
-                "episode_title": "Double or Mutton",
-                "release_year": "1955",
+                "description": "El Coyote intenta atrapar al Correcaminos de varias maneras, que incluyen el uso de un rallador con clavos y de un disfraz de indio americano.",
+                "episode_title": "Run, Run, Sweet Road Runner",
+                "release_year": "1965",
                 "status": [
                     {
-                        "title": "Double Or Mutton - Ralph Wolf and Sam Sheepdog (uncensored) (1080p HBOMax).mkv",
-                        "date": "1955-07-13",
-                        "year": "1955",
-                        "peso": "410.43"
+                        "title": "Run, Run, Sweet Road Runner - Roadrunner, Wile E. Coyote (Start Larriva Roadrunners) (DVD - no logo but not quite as nice)_.mp4",
+                        "date": "1965-08-21",
+                        "year": "1965",
+                        "peso": "95.42"
+                    },
+                    {
+                        "title": "Run, Run, Sweet Road Runner - Roadrunner, Wile E. Coyote (Start Larriva Roadrunners).mp4",
+                        "date": "1965-08-21",
+                        "year": "1965",
+                        "peso": "280.30"
                     }
                 ],
-                "episode": 2024319,
+                "episode": 2207369,
                 "season": 1,
-                "image": "https://image.tmdb.org/t/p/w500/zh6l7rx016NTHC1i28XfFEIwFix.jpg",
-                "titulo_es": "Double or Mutton",
+                "image": "https://image.tmdb.org/t/p/w500/qH2qsPJ40S1wWkNBnuPeES5Skix.jpg",
+                "titulo_es": "Run, Run, Sweet Road Runner",
                 "repetido": false
             },
             {
-                "id": "Looney Tunes-Wild Wild World",
+                "id": "Looney Tunes-The Sheepish Wolf",
                 "title": "Looney Tunes",
-                "date": "2023-09-17",
-                "start_date": "07:06",
-                "end_date": "07:14",
-                "runtime": 8,
-                "description": "Estos dibujos animados al estilo \"Los Picapiedras\" muestran la \u00e9poca de las cavernas como una r\u00e9plica del mundo moderno pero con rocas y dinosaurios.",
-                "episode_title": "Wild Wild World",
-                "release_year": "1960",
+                "date": "2023-09-19",
+                "start_date": "07:10",
+                "end_date": "07:19",
+                "runtime": 9,
+                "description": "Un perro ovejero charlat\u00e1n cuida un reba\u00f1o de ovejas y debe mantenerse alerta para evitar cualquier ataque del lobo.",
+                "episode_title": "The Sheepish Wolf",
+                "release_year": "1942",
                 "status": [
                     {
-                        "title": "Wild Wild World (1080p HBOMax).mkv",
-                        "date": "1960-02-27",
-                        "year": "1960",
-                        "peso": "376.20"
+                        "title": "The Sheepish Wolf (COLOR) (uncensored) 1080p MeTV version w Orig Titles Restored.mp4",
+                        "date": "1942-10-17",
+                        "year": "1942",
+                        "peso": "562.56"
+                    },
+                    {
+                        "title": "The Sheepish Wolf (COLOR) (uncensored) (LD).mkv",
+                        "date": "1942-10-17",
+                        "year": "1942",
+                        "peso": "121.84"
                     }
                 ],
-                "episode": 2268292,
+                "episode": 2110837,
                 "season": 1,
-                "image": "https://image.tmdb.org/t/p/w500/kZ4w6fR1qaQDeJFumfpG5Jdfo9h.jpg",
-                "titulo_es": "Wild Wild World",
+                "image": "https://image.tmdb.org/t/p/w500/7MmDTORtYgLdNxLIBJyi0dXxTZ7.jpg",
+                "titulo_es": "The Sheepish Wolf",
                 "repetido": false
             }
         ]
     },
     {
-        "date": "2023-09-18",
+        "date": "2023-09-20",
         "programs": [
             {
-                "id": "Looney Tunes-Little Red Rodent Hood",
+                "id": "Looney Tunes-Snow Business",
                 "title": "Looney Tunes",
-                "date": "2023-09-18",
-                "start_date": "06:35",
-                "end_date": "06:43",
-                "runtime": 8,
-                "description": "Una reelaboraci\u00f3n de Caperucita Roja con el rat\u00f3n Timmy y el gato Silvestre.",
-                "episode_title": "Little Red Rodent Hood",
-                "release_year": "1952",
-                "status": [
-                    {
-                        "title": "Little Red Rodent Hood - Sylvester (BR).mkv",
-                        "date": "1952-05-03",
-                        "year": "1952",
-                        "peso": "548.93"
-                    }
-                ],
-                "episode": 1882439,
-                "season": 1,
-                "image": "https://image.tmdb.org/t/p/w500/qFbC6axAl6ezns7f5USQnkNh7kZ.jpg",
-                "titulo_es": "Little Red Rodent Hood",
-                "repetido": false
-            },
-            {
-                "id": "Looney Tunes-Of Rice and Hen",
-                "title": "Looney Tunes",
-                "date": "2023-09-18",
-                "start_date": "06:43",
-                "end_date": "06:49",
-                "runtime": 6,
-                "description": "Ninguna de las gallinas del corral son amables con la se\u00f1orita Prissy, y por eso intenta suicidarse, pero el Gallo Claudio la salva. De inmediato, Prissy se enamora del gallo.",
-                "episode_title": "Of Rice and Hen",
+                "date": "2023-09-20",
+                "start_date": "06:24",
+                "end_date": "06:31",
+                "runtime": 7,
+                "description": "Piol\u00edn y Silvestre quedan encerrados por la nieve en su caba\u00f1a y deben buscar comida. Piol\u00edn encuentra semillas para aves mientras Silvestre trata de cocinar a Piol\u00edn para comerlo.",
+                "episode_title": "Snow Business",
                 "release_year": "1953",
                 "status": [
                     {
-                        "title": "Of Rice And Hen - Foghorn Leghorn, Br'er dog, Ms Prissy (uncensored) (1080p HBOMax Latin America).mkv",
-                        "date": "1953-11-14",
+                        "title": "Snow Business - Tweety, Sylvester, Granny (uncensored) (1080p HBOMax).mkv",
+                        "date": "1953-01-17",
                         "year": "1953",
-                        "peso": "405.01"
+                        "peso": "435.58"
                     }
                 ],
-                "episode": 1914841,
+                "episode": 2149721,
                 "season": 1,
-                "image": "https://image.tmdb.org/t/p/w500/vOlRUdbZnV36fh3YZL5Sitr0svN.jpg",
-                "titulo_es": "Of Rice and Hen",
+                "image": "https://image.tmdb.org/t/p/w500/jfUVEZcb9yqbAHr3V2MrBmx4bLN.jpg",
+                "titulo_es": "Snow Business",
                 "repetido": false
             },
             {
-                "id": "Looney Tunes-Fifth Column Mouse",
+                "id": "Looney Tunes-Kitty Kornered",
                 "title": "Looney Tunes",
-                "date": "2023-09-18",
+                "date": "2023-09-20",
+                "start_date": "06:31",
+                "end_date": "06:38",
+                "runtime": 7,
+                "description": "Los gatos de Porky lo echan de su propia casa. Cuando Porky vuelve a entrar, busca a todos los gatos y los amenaza con un perro. La mayor\u00eda de los gatos huye hasta que a Silvestre se le ocurre un plan para quedarse con la casa.",
+                "episode_title": "Kitty Kornered",
+                "release_year": "1946",
+                "status": [
+                    {
+                        "title": "Kitty Kornered - Porky, Sylvester (uncensored) (BR).mkv",
+                        "date": "1946-06-08",
+                        "year": "1946",
+                        "peso": "680.14"
+                    }
+                ],
+                "episode": 2110802,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/hiiPNdaA9VEfLEPBz64rY37VBfm.jpg",
+                "titulo_es": "Kitty Kornered",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-The Turntable Wolf",
+                "title": "Looney Tunes",
+                "date": "2023-09-20",
+                "start_date": "06:38",
+                "end_date": "06:47",
+                "runtime": 9,
+                "description": "El Gran Lobo Malo le cuenta a su sobrino su versi\u00f3n de la historia de los Tres Cerditos.",
+                "episode_title": "The Turn-Tale Wolf",
+                "release_year": "1952",
+                "status": [
+                    {
+                        "title": "The Turn-Tale Wolf (uncensored) (1080p HBOMax Latin America).mkv",
+                        "date": "1952-06-28",
+                        "year": "1952",
+                        "peso": "430.53"
+                    }
+                ],
+                "episode": 2035808,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/qYPwSpE56T8hMOp4ZVPzHy2AYfX.jpg",
+                "titulo_es": "The Turn-Tale Wolf",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Of Thee I Sting",
+                "title": "Looney Tunes",
+                "date": "2023-09-20",
+                "start_date": "06:47",
+                "end_date": "06:54",
+                "runtime": 7,
+                "description": "Un grupo de mosquitos toma clases de c\u00f3mo atacar a un granjero. Finalmente les llega la misi\u00f3n y atacan, pero de regreso todos chocan contra el agua.",
+                "episode_title": "Of Thee I Sting",
+                "release_year": "1946",
+                "status": [
+                    {
+                        "title": "Of Thee I Sting (1080p HBOMax).mkv",
+                        "date": "1946-08-17",
+                        "year": "1946",
+                        "peso": "405.26"
+                    }
+                ],
+                "episode": 2110815,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/ca63SmNa3t5qlxBlPuHSSk0FV05.jpg",
+                "titulo_es": "Of Thee I Sting",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Hare-Way to the Stars",
+                "title": "Looney Tunes",
+                "date": "2023-09-20",
+                "start_date": "06:54",
+                "end_date": "07:00",
+                "runtime": 6,
+                "description": "Bugs Bunny, que sufre de resaca de conejo, se sube por accidente a un cohete espacial estacionado directamente sobre su madriguera y llega a la casa de Marvin el Marciano.",
+                "episode_title": "Hare-Way to the Stars",
+                "release_year": "1958",
+                "status": [
+                    {
+                        "title": "Hare-Way To The Stars - Bugs Bunny, Marvin The Martian (uncensored) (1080p HBOMax).mkv",
+                        "date": "1958-03-29",
+                        "year": "1958",
+                        "peso": "427.94"
+                    }
+                ],
+                "episode": 1938869,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/x6lFYSAWGQdVM2Aft0yxva7PyCh.jpg",
+                "titulo_es": "Hare-Way to the Stars",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Jerkyl's Hyde",
+                "title": "Looney Tunes",
+                "date": "2023-09-20",
+                "start_date": "07:00",
+                "end_date": "07:07",
+                "runtime": 7,
+                "description": "Exhausto y sediento luego de que lo persigan un par de perros, Silvestre bebe por error una f\u00f3rmula estilo Mr. Hyde y se convierte en una bestia enorme que espanta a los animales.",
+                "episode_title": "Jerkyl's Hyde",
+                "release_year": "1954",
+                "status": [
+                    {
+                        "title": "Dr. Jerkyl's Hide - Sylvester, Spike(Alfie) & Chester (uncensored) (1080p HBOMax).mkv",
+                        "date": "1954-05-08",
+                        "year": "1954",
+                        "peso": "413.85"
+                    }
+                ],
+                "episode": 2250729,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/hvCUoQup7aAeRuHE5Icf8wnCQte.jpg",
+                "titulo_es": "Dr. Jerkyl's Hide",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Tom Thumb in Trouble",
+                "title": "Looney Tunes",
+                "date": "2023-09-20",
+                "start_date": "07:07",
+                "end_date": "07:18",
+                "runtime": 11,
+                "description": "Hab\u00eda una vez un bosque oscuro donde viv\u00eda un le\u00f1ador y su peque\u00f1o hijo Tom Thumb.",
+                "episode_title": "Tom Thumb in Trouble",
+                "release_year": "1940",
+                "status": [
+                    {
+                        "title": "Tom Thumb In Trouble (COLOR) (1080p HBOMax).mkv",
+                        "date": "1940-06-08d",
+                        "year": "1940",
+                        "peso": "506.77"
+                    }
+                ],
+                "episode": 2110841,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/gFBggF5rIHg5D1HbNIYqMlQbli5.jpg",
+                "titulo_es": "Tom Thumb in Trouble",
+                "repetido": false
+            }
+        ]
+    },
+    {
+        "date": "2023-09-21",
+        "programs": [
+            {
+                "id": "Looney Tunes-Bug Parade",
+                "title": "Looney Tunes",
+                "date": "2023-09-21",
+                "start_date": "06:24",
+                "end_date": "06:32",
+                "runtime": 8,
+                "description": "\u00c9sta es una serie de bromas basadas en hechos poco conocidos sobre el mundo de los insectos.",
+                "episode_title": "Bug Parade",
+                "release_year": "1941",
+                "status": [
+                    {
+                        "title": "Bug Parade (COLOR) (1080p HBOMax).mkv",
+                        "date": "1941-10-11",
+                        "year": "1941",
+                        "peso": "437.77"
+                    }
+                ],
+                "episode": 2149698,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/n758uMkL84iKQtHsIEhGIprqCvn.jpg",
+                "titulo_es": "The Bug Parade",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Holiday for Shoestrings",
+                "title": "Looney Tunes",
+                "date": "2023-09-21",
+                "start_date": "06:32",
+                "end_date": "06:39",
+                "runtime": 7,
+                "description": "Jake necesita ayuda en su tienda de compostura de calzado. Una noche, mientras duerme, peque\u00f1os duendes lo visitan para hacer zapatos. Un duende indio encantador de serpientes ata cordones mientras uno que patina sobre hielo hace plantillas.",
+                "episode_title": "Holiday for Shoestrings",
+                "release_year": "1946",
+                "status": [
+                    {
+                        "title": "Holiday for Shoestrings (1080p HBOMax).mkv",
+                        "date": "1946-02-23",
+                        "year": "1946",
+                        "peso": "453.43"
+                    }
+                ],
+                "episode": 2110789,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/eC6cCccpMxgebyGUaeuLq99UpY7.jpg",
+                "titulo_es": "Holiday for Shoestrings",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Mother Was a Rooster",
+                "title": "Looney Tunes",
+                "date": "2023-09-21",
+                "start_date": "06:39",
+                "end_date": "06:47",
+                "runtime": 8,
+                "description": "El perro del establo se roba el huevo de un avestruz y lo coloca al lado del Gallo Claudio. Cuando el gallo se despierta, cree que ha puesto un enorme huevo.",
+                "episode_title": "Mother Was a Rooster",
+                "release_year": "1962",
+                "status": [
+                    {
+                        "title": "Mother Was A Rooster - Foghorn Leghorn, Br'er dog (uncensored) (1080p HBOMax).mkv",
+                        "date": "1962-10-20",
+                        "year": "1962",
+                        "peso": "365.99"
+                    }
+                ],
+                "episode": 1914839,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/e9vkLW0qOKtOJNkFObqltAT3z2g.jpg",
+                "titulo_es": "Mother Was a Rooster",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-The Stupid Cupid",
+                "title": "Looney Tunes",
+                "date": "2023-09-21",
+                "start_date": "06:47",
+                "end_date": "06:53",
+                "runtime": 6,
+                "description": "Elmer Gru\u00f1\u00f3n es un Cupido est\u00fapido que usa flechas con ventosas de goma contra sus inocentes v\u00edctimas.",
+                "episode_title": "The Stupid Cupid",
+                "release_year": "1944",
+                "status": [
+                    {
+                        "title": "The Stupid Cupid - Daffy Duck, Elmer (Cupid) (uncensored) (BR).mkv",
+                        "date": "1944-11-25",
+                        "year": "1944",
+                        "peso": "717.51"
+                    }
+                ],
+                "episode": 1989526,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/xUV2obXaWH1xkBgmqaZhFgzbSJO.jpg",
+                "titulo_es": "The Stupid Cupid",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-A Tale of Two Kitties",
+                "title": "Looney Tunes",
+                "date": "2023-09-21",
+                "start_date": "06:53",
+                "end_date": "07:00",
+                "runtime": 7,
+                "description": "Babbit y Catstello tratan de capturar a Piol\u00edn.",
+                "episode_title": "A Tale of Two Kitties",
+                "release_year": "1942",
+                "status": [
+                    {
+                        "title": "A Tale of Two Kitties - Tweety, Babbit & Catstello (cats) (COLOR) (uncensored) (1080p HBOMax).mkv",
+                        "date": "1942-11-21",
+                        "year": "1942",
+                        "peso": "408.79"
+                    }
+                ],
+                "episode": 2194537,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/62H79iSWCmMijgdt6n2j0Xf0r81.jpg",
+                "titulo_es": "A Tale of Two Kitties",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Wild Over You",
+                "title": "Looney Tunes",
+                "date": "2023-09-21",
+                "start_date": "07:00",
+                "end_date": "07:07",
+                "runtime": 7,
+                "description": "Una gata callejera se pinta una franja blanca para asustar a un vigilante y escapar de un zool\u00f3gico montado dentro de la Exposici\u00f3n de Par\u00eds.",
+                "episode_title": "Wild Over You",
+                "release_year": "1953",
+                "status": [
+                    {
+                        "title": "Wild Over You - PePe LePew (Web).mkv",
+                        "date": "1953-07-11",
+                        "year": "1953",
+                        "peso": "656.94"
+                    }
+                ],
+                "episode": 2277424,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/nYcRYKLbMauYoHcjVhgZTQqSS3g.jpg",
+                "titulo_es": "Wild Over You",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Quacker Tracker",
+                "title": "Looney Tunes",
+                "date": "2023-09-21",
+                "start_date": "07:07",
+                "end_date": "07:15",
+                "runtime": 8,
+                "description": "Una destacada sociedad de caza promete una membres\u00eda de por vida para quien pueda atrapar a Speedy.",
+                "episode_title": "Quacker Tracker",
+                "release_year": "1967",
+                "status": [
+                    {
+                        "title": "Quacker Tracker - Daffy Duck, Speedy Gonzales (VHS).mkv",
+                        "date": "1967-04-29",
+                        "year": "1967",
+                        "peso": "100.50"
+                    }
+                ],
+                "episode": 1914843,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/dT1CJNE1ByqbDzjK0Par0vGivX4.jpg",
+                "titulo_es": "Quacker Tracker",
+                "repetido": false
+            }
+        ]
+    },
+    {
+        "date": "2023-09-22",
+        "programs": [
+            {
+                "id": "Looney Tunes-Easy Peckins",
+                "title": "Looney Tunes",
+                "date": "2023-09-22",
+                "start_date": "06:27",
+                "end_date": "06:34",
+                "runtime": 7,
+                "description": "Un zorro hace varios esfuerzos por colarse en una granja de pollos, pero un gallo particularmente fuerte frustra sus planes una y otra vez.",
+                "episode_title": "Easy Peckins",
+                "release_year": "1953",
+                "status": [
+                    {
+                        "title": "Easy Peckin's (uncensored) (1080p HBOMax).mkv",
+                        "date": "1953-10-17",
+                        "year": "1953",
+                        "peso": "397.95"
+                    }
+                ],
+                "episode": 2453397,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/5kIZkutbxowAXMMb6hAG8euVhNQ.jpg",
+                "titulo_es": "Easy Peckin's",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-I Like Mountain Music",
+                "title": "Looney Tunes",
+                "date": "2023-09-22",
+                "start_date": "06:34",
+                "end_date": "06:40",
+                "runtime": 6,
+                "description": "Esta variante de la secuela de Tres son multitud, el original dibujo animado donde los libros cobran vida, reemplaza a los personajes literarios, a villanos y a otros famosos personajes de ficci\u00f3n por tapas de revistas.",
+                "episode_title": "I Like Mountain Music",
+                "release_year": "1933",
+                "status": [
+                    {
+                        "title": "I Like Mountain Music (uncensored) (HBOMax - deleted from service - Larger size).mp4",
+                        "date": "1933-06-13",
+                        "year": "1933",
+                        "peso": "1092.24"
+                    },
+                    {
+                        "title": "I Like Mountain Music - 1995 (Turner Redrawn & Colorized Version).mp4",
+                        "date": "1933-06-13b",
+                        "year": "1933",
+                        "peso": "46.49"
+                    },
+                    {
+                        "title": "I Like Mountain Music (uncensored)  (Radio & Television Packagers redrawn and colorized version).mp4",
+                        "date": "1933-06-13c",
+                        "year": "1933",
+                        "peso": "22.16"
+                    }
+                ],
+                "episode": 2153510,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/pMFqGKPKfYuwGVF4UF1WnV7VEWb.jpg",
+                "titulo_es": "I Like Mountain Music",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-49",
+                "title": "Looney Tunes",
+                "date": "2023-09-22",
+                "start_date": "06:40",
+                "end_date": "06:49",
+                "runtime": 9,
+                "description": "Duck Dodgers in the 24th 1/2 Century. Duck Dodgers y Marvin el Marciano libran una guerra sobre el Planeta X.",
+                "episode_title": "49",
+                "release_year": "1935",
+                "status": [
+                    {
+                        "title": "Gold Diggers Of '49 - Porky & Beans & Little Kitty (uncensored) (DVD).mkv",
+                        "date": "1935-12-00a",
+                        "year": "1935",
+                        "peso": "285.49"
+                    },
+                    {
+                        "title": "Gold Diggers Of '49 - Porky & Beans & Little Kitty COLORIZED 1990.mkv",
+                        "date": "1935-12-00b",
+                        "year": "1935",
+                        "peso": "375.01"
+                    },
+                    {
+                        "title": "--    1  492.47 MB 04Mar2020 07:47:18 Philbert (DVD).mkv",
+                        "date": "Philbert (DVD).mk",
+                        "year": "Miscellaneous Shorts",
+                        "peso": "492.47"
+                    },
+                    {
+                        "title": "--    1  144.49 MB 04Mar2020 07:51:38 Freeze Frame (TV).mkv",
+                        "date": "Freeze Frame (TV).mk",
+                        "year": "Post-classic Shorts",
+                        "peso": "144.49"
+                    },
+                    {
+                        "title": "--    1  442.33 MB 05Nov2020 07:21:49 From Hare To Eternity (1080p HBOMax).mkv",
+                        "date": "From Hare To Eternity (1080p HBOMax).mk",
+                        "year": "Post-classic Shorts",
+                        "peso": "442.33"
+                    }
+                ],
+                "episode": 1973852,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/AcK492mBgDZfZXGfVbiMRVGhcFM.jpg",
+                "titulo_es": "Gold Diggers of '49",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Fin-N-Catty",
+                "title": "Looney Tunes",
+                "date": "2023-09-22",
                 "start_date": "06:49",
-                "end_date": "06:59",
-                "runtime": 10,
-                "description": "Un malvado gato esclaviza a todos los ratones de la casa para que ejecuten sus \u00f3rdenes. Los ratones al final se unen y derrocan al gato.",
-                "episode_title": "Fifth Column Mouse",
+                "end_date": "06:56",
+                "runtime": 7,
+                "description": "Un gato frustrado intenta sacar a un pez dorado de la pecera, pero el pez siempre le da batalla.",
+                "episode_title": "Fin'n Catty",
                 "release_year": "1943",
                 "status": [
                     {
-                        "title": "The Fifth Column Mouse (uncensored) (has Down with the Axis verse).mp4",
-                        "date": "1943-03-06b",
+                        "title": "Fin'n Catty (1080p HBOMax).mkv",
+                        "date": "1943-10-23",
                         "year": "1943",
-                        "peso": "109.67"
+                        "peso": "400.81"
                     }
                 ],
-                "episode": 3084669,
+                "episode": 2188340,
                 "season": 1,
-                "image": "https://image.tmdb.org/t/p/w500/80LDP6Vw4NM5ZvRlfmmhmMeERK2.jpg",
-                "titulo_es": "Fifth Column Mouse",
+                "image": "https://image.tmdb.org/t/p/w500/nIu2qdU2I4NAdh2zMoKubcRFsGf.jpg",
+                "titulo_es": "Fin'n Catty",
                 "repetido": false
             },
             {
-                "id": "Looney Tunes-What's Brewin' Bruin?",
+                "id": "Looney Tunes-Sugar and Spies",
                 "title": "Looney Tunes",
-                "date": "2023-09-18",
-                "start_date": "06:59",
-                "end_date": "07:06",
+                "date": "2023-09-22",
+                "start_date": "06:56",
+                "end_date": "07:02",
+                "runtime": 6,
+                "description": "Un esp\u00eda al que lo persigue la polic\u00eda arroja su \"Kit de esp\u00eda\". El Coyote lo encuentra y lo usa como ayuda para perseguir al Correcaminos.",
+                "episode_title": "Sugar and Spies",
+                "release_year": "1966",
+                "status": [
+                    {
+                        "title": "Sugar And Spies - Roadrunner, Wile E. Coyote (1080p HBOMax).mkv",
+                        "date": "1966-11-05",
+                        "year": "1966",
+                        "peso": "395.02"
+                    }
+                ],
+                "episode": 2207370,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/jsw5T9QyXgo5Lg4S6rFlBBjZHlQ.jpg",
+                "titulo_es": "Sugar and Spies",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Now Hear This",
+                "title": "Looney Tunes",
+                "date": "2023-09-22",
+                "start_date": "07:02",
+                "end_date": "07:09",
                 "runtime": 7,
-                "description": "Pap\u00e1 Oso decide que es hora de que sus tres ositos hibernen para poder dormir una buena siesta invernal. Por desgracia, todo sale al rev\u00e9s de lo que quiere.",
-                "episode_title": "What's Brewin' Bruin?",
-                "release_year": "1948",
+                "description": "Bugs Bunny lucha contra el Gran Lobo Malo para evitar que se lo coma para la cena.",
+                "episode_title": "Now Hear This",
+                "release_year": "1963",
                 "status": [
                     {
-                        "title": "What's Brewin', Bruin - Three Bears (1080p HBOMax).mkv",
-                        "date": "1948-02-26",
-                        "year": "1948",
-                        "peso": "461.48"
+                        "title": "Now Hear This (1080p HBOMax).mkv",
+                        "date": "1963-04-27",
+                        "year": "1963",
+                        "peso": "406.85"
                     }
                 ],
-                "episode": 2165937,
+                "episode": 2535594,
                 "season": 1,
-                "image": "https://image.tmdb.org/t/p/w500/uMEVemnfK3QIWzLN2Po0MahdcsH.jpg",
-                "titulo_es": "What's Brewin', Bruin?",
+                "image": "https://image.tmdb.org/t/p/w500/c6s32KJEzF8saRma2Y0BBNg2l8C.jpg",
+                "titulo_es": "Now Hear This",
                 "repetido": false
             },
             {
-                "id": "Looney Tunes-Scairdy Cat",
+                "id": "Looney Tunes-Mouse Menace",
                 "title": "Looney Tunes",
-                "date": "2023-09-18",
-                "start_date": "07:06",
-                "end_date": "07:14",
-                "runtime": 8,
-                "description": "Una noche oscura, Porky lleva a Silvestre a su nuevo hogar: una mansi\u00f3n g\u00f3tica.",
-                "episode_title": "Scaredy Cat",
-                "release_year": "1948",
+                "date": "2023-09-22",
+                "start_date": "07:09",
+                "end_date": "07:18",
+                "runtime": 9,
+                "description": "Porky hace cualquier cosa por deshacerse del rat\u00f3n que vive en su casa.",
+                "episode_title": "Mouse Menace",
+                "release_year": "1946",
                 "status": [
                     {
-                        "title": "Scaredy Cat - Porky, Sylvester (1080p HBOMax).mkv",
-                        "date": "1948-12-18",
-                        "year": "1948",
-                        "peso": "455.42"
+                        "title": "Mouse Menace - Porky (DVD).mkv",
+                        "date": "1946-11-02",
+                        "year": "1946",
+                        "peso": "241.36"
                     }
                 ],
-                "episode": 2158320,
+                "episode": 2110810,
                 "season": 1,
-                "image": "https://image.tmdb.org/t/p/w500/5V9Jg7wGIxjmgW9UpfMe3GkdpiV.jpg",
-                "titulo_es": "Scaredy Cat",
+                "image": "https://image.tmdb.org/t/p/w500/41ydXyDDFeBlpCfNg2WT1xXx6JS.jpg",
+                "titulo_es": "Mouse Menace",
+                "repetido": false
+            }
+        ]
+    },
+    {
+        "date": "2023-09-23",
+        "programs": [
+            {
+                "id": "Looney Tunes-Crockett-Doodle-Doo",
+                "title": "Looney Tunes",
+                "date": "2023-09-23",
+                "start_date": "06:27",
+                "end_date": "06:33",
+                "runtime": 6,
+                "description": "El Gallo Claudio trata de ense\u00f1arle al cerebrito Egghead Jr. sobre la naturaleza.",
+                "episode_title": "Crockett-Doodle-Do",
+                "release_year": "1960",
+                "status": [
+                    {
+                        "title": "Crockett-Doodle-Do - Foghorn Leghorn, Egghead Jr (1080p iTunes version).mp4",
+                        "date": "1960-06-25",
+                        "year": "1960",
+                        "peso": "221.93"
+                    }
+                ],
+                "episode": 1914830,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/rFhKrktOClfOMouHnH9MlGzg7nb.jpg",
+                "titulo_es": "Crockett-Doodle-Do",
                 "repetido": false
             },
             {
-                "id": "Looney Tunes-Bartholomew Versus the Wheel",
+                "id": "Looney Tunes-Fox Terror",
                 "title": "Looney Tunes",
-                "date": "2023-09-18",
-                "start_date": "07:14",
-                "end_date": "07:22",
-                "runtime": 8,
-                "description": "La historia de un perro llamado Bartolomeo al que la rueda de un scooter le pisa la cola.",
-                "episode_title": "Bartholomew Versus the Wheel",
-                "release_year": "1964",
+                "date": "2023-09-23",
+                "start_date": "06:33",
+                "end_date": "06:40",
+                "runtime": 7,
+                "description": "Un zorro enga\u00f1oso trata de usar las discusiones entre el Gallo Claudio y el perro para entrar al gallinero.",
+                "episode_title": "Fox Terror",
+                "release_year": "1957",
                 "status": [
                     {
-                        "title": "Bartholomew Versus The Wheel (DVD).mkv",
-                        "date": "1964-02-29",
-                        "year": "1964",
-                        "peso": "159.64"
+                        "title": "Fox-Terror - Foghorn Leghorn, Br'er dog (uncensored) (1080p HBOMax).mkv",
+                        "date": "1957-05-11",
+                        "year": "1957",
+                        "peso": "417.17"
                     }
                 ],
-                "episode": 2151828,
+                "episode": 1914835,
                 "season": 1,
-                "image": "https://image.tmdb.org/t/p/w500/u2ow38nDdajPIihuXKS6feTn5S6.jpg",
-                "titulo_es": "Bartholomew Versus the Wheel",
+                "image": "https://image.tmdb.org/t/p/w500/77rWlJrVKaOgEV9p3nVQJSPEG6x.jpg",
+                "titulo_es": "Fox-Terror",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-The Wild Chase",
+                "title": "Looney Tunes",
+                "date": "2023-09-23",
+                "start_date": "06:40",
+                "end_date": "06:48",
+                "runtime": 8,
+                "description": "Se lleva a cabo una carrera para determinar qui\u00e9n es el m\u00e1s r\u00e1pido: Speedy Gonz\u00e1lez o el Correcaminos.",
+                "episode_title": "The Wild Chase",
+                "release_year": "1965",
+                "status": [
+                    {
+                        "title": "The Wild Chase - Roadrunner, Wile E. Coyote, Speedy Gonzales, Sylvester (1080p iTunes version).mp4",
+                        "date": "1965-02-27",
+                        "year": "1965",
+                        "peso": "247.97"
+                    }
+                ],
+                "episode": 2207372,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/oy6v5gB5Orrsb9WyvjEDRhf0ZWj.jpg",
+                "titulo_es": "The Wild Chase",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-A Feud There Was",
+                "title": "Looney Tunes",
+                "date": "2023-09-23",
+                "start_date": "06:48",
+                "end_date": "06:56",
+                "runtime": 8,
+                "description": "Dos familias vecinas est\u00e1n en guerra, entonces Egghead se interpone e intenta poner fin esta guerra \"sin sentido\". Muy enojadas, ambas familias se unen para atrapar a Egghead.",
+                "episode_title": "A Feud There Was",
+                "release_year": "1938",
+                "status": [
+                    {
+                        "title": "A Feud There Was - Egghead (aka Elmer Fudd, peacemaker) (COLOR) (LD).mkv",
+                        "date": "1938-09-24c",
+                        "year": "1938",
+                        "peso": "216.79"
+                    },
+                    {
+                        "title": "A Feud There Was - Egghead (aka Elmer Fudd, peacemaker) (COLOR) - 1080p (MeTV version w logo).mp4",
+                        "date": "1938-09-24c",
+                        "year": "1938",
+                        "peso": "382.55"
+                    }
+                ],
+                "episode": 3643839,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/3jNacnLLZqfGDsYEn2G2OeUdxUV.jpg",
+                "titulo_es": "A Feud There Was",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Ducking the Devil",
+                "title": "Looney Tunes",
+                "date": "2023-09-23",
+                "start_date": "06:56",
+                "end_date": "07:03",
+                "runtime": 7,
+                "description": "Lucas trata de idear un modo de capturar al demonio de Tasmania a cambio de una recompensa de $5000.",
+                "episode_title": "Ducking the Devil",
+                "release_year": "1957",
+                "status": [
+                    {
+                        "title": "Ducking The Devil - Daffy Duck, Tazmanian Devil (1080p HBOMax).mkv",
+                        "date": "1957-08-17",
+                        "year": "1957",
+                        "peso": "408.38"
+                    }
+                ],
+                "episode": 2214300,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/1SvehHp5zl2hCZAGxAkyzgjs127.jpg",
+                "titulo_es": "Ducking the Devil",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Hot Rod and Reel!",
+                "title": "Looney Tunes",
+                "date": "2023-09-23",
+                "start_date": "07:03",
+                "end_date": "07:09",
+                "runtime": 6,
+                "description": "El Coyote se encuentra a s\u00ed mismo en muchas situaciones en las que cae de un acantilado.",
+                "episode_title": "Hot Rod and Reel!",
+                "release_year": "1959",
+                "status": [
+                    {
+                        "title": "Hot-Rod And Reel! - Roadrunner, Wile E. Coyote (uncensored) (1080p HBOMax).mkv",
+                        "date": "1959-05-09",
+                        "year": "1959",
+                        "peso": "395.77"
+                    }
+                ],
+                "episode": 1865287,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/jqnb4r93hcdGN9uMYj3VqsNU9WW.jpg",
+                "titulo_es": "Hot-Rod and Reel!",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-His Bitter Half",
+                "title": "Looney Tunes",
+                "date": "2023-09-23",
+                "start_date": "07:09",
+                "end_date": "07:19",
+                "runtime": 10,
+                "description": "Lucas responde un anuncio personal y se casa con la adinerada Lady Duck. Pronto se da cuenta que su nueva esposa es una mandona gritona e insoportable.",
+                "episode_title": "His Bitter Half",
+                "release_year": "1950",
+                "status": [
+                    {
+                        "title": "His Bitter Half - Daffy Duck, (Wentworth plot) (uncensored) (1080p HBOMax Latin America).mkv",
+                        "date": "1950-05-20",
+                        "year": "1950",
+                        "peso": "465.76"
+                    }
+                ],
+                "episode": 1853906,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/zi7AvO24P7p7z9vrv22hIOdymP4.jpg",
+                "titulo_es": "His Bitter Half",
+                "repetido": false
+            }
+        ]
+    },
+    {
+        "date": "2023-09-24",
+        "programs": [
+            {
+                "id": "Looney Tunes-Strife with the Father",
+                "title": "Looney Tunes",
+                "date": "2023-09-24",
+                "start_date": "06:32",
+                "end_date": "06:39",
+                "runtime": 7,
+                "description": "Dos gorriones reciben un misterioso huevo en la entrada de su casa y deciden dejarlo entrar.",
+                "episode_title": "Strife With Father",
+                "release_year": "1950",
+                "status": [
+                    {
+                        "title": "Strife With Father - Beaky Buzzard (1080p HBOMax).mkv",
+                        "date": "1950-04-04",
+                        "year": "1950",
+                        "peso": "447.59"
+                    }
+                ],
+                "episode": 2317942,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/wKYRZRklWNy4tJxLyiAAMDDlPQl.jpg",
+                "titulo_es": "Strife with Father",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Bunny Hugged",
+                "title": "Looney Tunes",
+                "date": "2023-09-24",
+                "start_date": "06:39",
+                "end_date": "06:46",
+                "runtime": 7,
+                "description": "Bugs Bunny se aventura en el mundo de la lucha libre profesional.",
+                "episode_title": "Bunny Hugged",
+                "release_year": "1951",
+                "status": [
+                    {
+                        "title": "Bunny Hugged - Bugs Bunny, Crusher (1080p HBOMax).mkv",
+                        "date": "1951-03-10",
+                        "year": "1951",
+                        "peso": "444.64"
+                    }
+                ],
+                "episode": 1890796,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/8S9LiY2Cn5bniGMU64CsJidHEmh.jpg",
+                "titulo_es": "Bunny Hugged",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Unnatural History",
+                "title": "Looney Tunes",
+                "date": "2023-09-24",
+                "start_date": "06:46",
+                "end_date": "06:55",
+                "runtime": 9,
+                "description": "El profesor Beest Lee ofrece una clase muy gorila-c\u00e9ntrica y extra\u00f1a sobre los animales y sus h\u00e1bitos poco comunes.",
+                "episode_title": "Unnatural History",
+                "release_year": "1959",
+                "status": [
+                    {
+                        "title": "Unnatural History (MeTV).mkv",
+                        "date": "1959-11-14",
+                        "year": "1959",
+                        "peso": "163.56"
+                    }
+                ],
+                "episode": 1973875,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/taK5d6EZPGwTYYCLGw2UPcjx1N.jpg",
+                "titulo_es": "Unnatural History",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Backwoods Bunny",
+                "title": "Looney Tunes",
+                "date": "2023-09-24",
+                "start_date": "06:55",
+                "end_date": "07:01",
+                "runtime": 6,
+                "description": "Bugs Bunny usa su ingenio para tener ventaja sobre dos gavilanes de campo que tratan de atraparlo para cocinarlo en su guisado.",
+                "episode_title": "Backwoods Bunny",
+                "release_year": "1959",
+                "status": [
+                    {
+                        "title": "Backwoods Bunny - Bugs Bunny, Pappy & Elvis (buzzards) (BR).mkv",
+                        "date": "1959-06-13",
+                        "year": "1959",
+                        "peso": "95.73"
+                    }
+                ],
+                "episode": 1923011,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/ifZOUlPYU8Y1vtR7fO4b5e6nNK7.jpg",
+                "titulo_es": "Backwoods Bunny",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Riff Raffy Daffy",
+                "title": "Looney Tunes",
+                "date": "2023-09-24",
+                "start_date": "07:01",
+                "end_date": "07:08",
+                "runtime": 7,
+                "description": "Porky, el polic\u00eda, persigue a Lucas, el vagabundo, alrededor de un parque y en sus cercan\u00edas.",
+                "episode_title": "Riff Raffy Daffy",
+                "release_year": "1948",
+                "status": [
+                    {
+                        "title": "Riff Raffy Daffy \u2013 Daffy Duck (uncensored) (DVD).mkv",
+                        "date": "1948-11-27",
+                        "year": "1948",
+                        "peso": "167.38"
+                    }
+                ],
+                "episode": 2014876,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/3QCoZHvI6hacURtYL2ZzUcaGUkM.jpg",
+                "titulo_es": "Riff Raffy Daffy",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Rebel Without Claws",
+                "title": "Looney Tunes",
+                "date": "2023-09-24",
+                "start_date": "07:08",
+                "end_date": "07:17",
+                "runtime": 9,
+                "description": "En el ej\u00e9rcito de los confederados, Piol\u00edn recibe la tarea de entregar un mensaje importante. Silvestre recibe un encargo de los enemigos, el ej\u00e9rcito norteamericano: debe detener a Piol\u00edn.",
+                "episode_title": "Rebel Without Claws",
+                "release_year": "1961",
+                "status": [
+                    {
+                        "title": "Rebel Without Claws - Sylvester, Tweety (uncensored) (DVD).mkv",
+                        "date": "1961-07-15",
+                        "year": "1961",
+                        "peso": "152.13"
+                    },
+                    {
+                        "title": "Rebel Without Claws - Sylvester, Tweety (uncensored) - 1080p (MeTV version w logo).mp4",
+                        "date": "1961-07-15",
+                        "year": "1961",
+                        "peso": "147.00"
+                    }
+                ],
+                "episode": 2167894,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/kYehy1hDGcDzdKdZpFLdAd4FOdz.jpg",
+                "titulo_es": "Rebel Without Claws",
                 "repetido": false
             }
         ]
