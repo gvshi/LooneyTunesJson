@@ -1,5 +1,190 @@
 [
     {
+        "date": "2023-09-19",
+        "programs": [
+            {
+                "id": "Looney Tunes-A Squeak in the Deep",
+                "title": "Looney Tunes",
+                "date": "2023-09-19",
+                "start_date": "06:27",
+                "end_date": "06:33",
+                "runtime": 6,
+                "description": "Tanto Speedy Gonz\u00e1lez como el pato Lucas se inscriben en una carrera de botes y compiten para ganar la carrera.",
+                "episode_title": "A Squeak in the Deep",
+                "release_year": "1966",
+                "status": [
+                    {
+                        "title": "A Squeak In The Deep - Daffy Duck, Speedy Gonzales - 1080p (MeTV version w logo).mp4",
+                        "date": "1966-07-19",
+                        "year": "1966",
+                        "peso": "158.95"
+                    }
+                ],
+                "episode": 2199775,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/aCkb0KsOaZQ2wL965BCB0zMvT0S.jpg",
+                "titulo_es": "A Squeak in the Deep",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Wagon Heels",
+                "title": "Looney Tunes",
+                "date": "2023-09-19",
+                "start_date": "06:33",
+                "end_date": "06:41",
+                "runtime": 8,
+                "description": "Porky es un explorador a cargo de un vag\u00f3n de tren que atraviesa un territorio donde habita gente hostil.",
+                "episode_title": "Wagon Heels",
+                "release_year": "1945",
+                "status": [
+                    {
+                        "title": "Wagon Heels - Porky; Color remake of Injun Trouble (1938) (DVD).mkv",
+                        "date": "1945-07-28",
+                        "year": "1945",
+                        "peso": "304.35"
+                    }
+                ],
+                "episode": 2195356,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/jn00uO7e88EihPIdftqO4LINNP1.jpg",
+                "titulo_es": "Wagon Heels",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-A Bone for a Bone",
+                "title": "Looney Tunes",
+                "date": "2023-09-19",
+                "start_date": "06:41",
+                "end_date": "06:50",
+                "runtime": 9,
+                "description": "El primer dibujo animado de los roedores Goofy Gophers. En \u00e9l se expresa la sofisticaci\u00f3n de su insensatez. Eso es hasta que un perro quiere enterrar su hueso en el hogar de los roedores.",
+                "episode_title": "A Bone for a Bone",
+                "release_year": "1951",
+                "status": [
+                    {
+                        "title": "A Bone For A Bone - Goofy Gophers (uncensored) (1080p HBOMax).mkv",
+                        "date": "1951-04-07",
+                        "year": "1951",
+                        "peso": "433.10"
+                    }
+                ],
+                "episode": 2239730,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/6W6TxLAING4O0ub37OGrQ9n90GU.jpg",
+                "titulo_es": "A Bone for a Bone",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Sleepy Time Possum",
+                "title": "Looney Tunes",
+                "date": "2023-09-19",
+                "start_date": "06:50",
+                "end_date": "06:57",
+                "runtime": 7,
+                "description": "Mam\u00e1 y Pap\u00e1 zarig\u00fceya tratan de evitar que su hijo duerma todo el tiempo.",
+                "episode_title": "Sleepy Time Possum",
+                "release_year": "1951",
+                "status": [
+                    {
+                        "title": "Sleepy Time Possum (1080p HBOMax).mkv",
+                        "date": "1951-11-03",
+                        "year": "1951",
+                        "peso": "427.07"
+                    }
+                ],
+                "episode": 2418624,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/m2d4QBDB5azPzPMy7OJmcnOEFeu.jpg",
+                "titulo_es": "Sleepy Time Possum",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Dog Pounded",
+                "title": "Looney Tunes",
+                "date": "2023-09-19",
+                "start_date": "06:57",
+                "end_date": "07:03",
+                "runtime": 6,
+                "description": "Piol\u00edn se queda c\u00f3modamente dentro de su nido, que en realidad est\u00e1 en el medio del jard\u00edn donde vive un perro. Silvestre debe tratar de descubrir un modo de escapar con \u00e9xito de todos los perros para llegar a Piol\u00edn.",
+                "episode_title": "Dog Pounded",
+                "release_year": "1954",
+                "status": [
+                    {
+                        "title": "Dog Pounded - Sylvester, Tweety, Granny, multiple Hectors, Pepe LePew cameo (1080p HBOMax).mkv",
+                        "date": "1954-01-02",
+                        "year": "1954",
+                        "peso": "407.61"
+                    }
+                ],
+                "episode": 2149704,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/wcpYeJsOBL44UZyqAceiVAl8w7W.jpg",
+                "titulo_es": "Dog Pounded",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Run, Run, Sweet Road Runner",
+                "title": "Looney Tunes",
+                "date": "2023-09-19",
+                "start_date": "07:03",
+                "end_date": "07:10",
+                "runtime": 7,
+                "description": "El Coyote intenta atrapar al Correcaminos de varias maneras, que incluyen el uso de un rallador con clavos y de un disfraz de indio americano.",
+                "episode_title": "Run, Run, Sweet Road Runner",
+                "release_year": "1965",
+                "status": [
+                    {
+                        "title": "Run, Run, Sweet Road Runner - Roadrunner, Wile E. Coyote (Start Larriva Roadrunners) (DVD - no logo but not quite as nice)_.mp4",
+                        "date": "1965-08-21",
+                        "year": "1965",
+                        "peso": "95.42"
+                    },
+                    {
+                        "title": "Run, Run, Sweet Road Runner - Roadrunner, Wile E. Coyote (Start Larriva Roadrunners).mp4",
+                        "date": "1965-08-21",
+                        "year": "1965",
+                        "peso": "280.30"
+                    }
+                ],
+                "episode": 2207369,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/qH2qsPJ40S1wWkNBnuPeES5Skix.jpg",
+                "titulo_es": "Run, Run, Sweet Road Runner",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-The Sheepish Wolf",
+                "title": "Looney Tunes",
+                "date": "2023-09-19",
+                "start_date": "07:10",
+                "end_date": "07:19",
+                "runtime": 9,
+                "description": "Un perro ovejero charlat\u00e1n cuida un reba\u00f1o de ovejas y debe mantenerse alerta para evitar cualquier ataque del lobo.",
+                "episode_title": "The Sheepish Wolf",
+                "release_year": "1942",
+                "status": [
+                    {
+                        "title": "The Sheepish Wolf (COLOR) (uncensored) 1080p MeTV version w Orig Titles Restored.mp4",
+                        "date": "1942-10-17",
+                        "year": "1942",
+                        "peso": "562.56"
+                    },
+                    {
+                        "title": "The Sheepish Wolf (COLOR) (uncensored) (LD).mkv",
+                        "date": "1942-10-17",
+                        "year": "1942",
+                        "peso": "121.84"
+                    }
+                ],
+                "episode": 2110837,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/7MmDTORtYgLdNxLIBJyi0dXxTZ7.jpg",
+                "titulo_es": "The Sheepish Wolf",
+                "repetido": false
+            }
+        ]
+    },
+    {
         "date": "2023-09-18",
         "programs": [
             {
