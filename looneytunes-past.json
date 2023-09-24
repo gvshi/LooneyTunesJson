@@ -1,5 +1,214 @@
 [
     {
+        "date": "2023-09-22",
+        "programs": [
+            {
+                "id": "Looney Tunes-Easy Peckins",
+                "title": "Looney Tunes",
+                "date": "2023-09-22",
+                "start_date": "06:27",
+                "end_date": "06:34",
+                "runtime": 7,
+                "description": "Un zorro hace varios esfuerzos por colarse en una granja de pollos, pero un gallo particularmente fuerte frustra sus planes una y otra vez.",
+                "episode_title": "Easy Peckins",
+                "release_year": "1953",
+                "status": [
+                    {
+                        "title": "Easy Peckin's (uncensored) (1080p HBOMax).mkv",
+                        "date": "1953-10-17",
+                        "year": "1953",
+                        "peso": "397.95"
+                    }
+                ],
+                "episode": 2453397,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/5kIZkutbxowAXMMb6hAG8euVhNQ.jpg",
+                "titulo_es": "Easy Peckin's",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-I Like Mountain Music",
+                "title": "Looney Tunes",
+                "date": "2023-09-22",
+                "start_date": "06:34",
+                "end_date": "06:40",
+                "runtime": 6,
+                "description": "Esta variante de la secuela de Tres son multitud, el original dibujo animado donde los libros cobran vida, reemplaza a los personajes literarios, a villanos y a otros famosos personajes de ficci\u00f3n por tapas de revistas.",
+                "episode_title": "I Like Mountain Music",
+                "release_year": "1933",
+                "status": [
+                    {
+                        "title": "I Like Mountain Music (uncensored) (HBOMax - deleted from service - Larger size).mp4",
+                        "date": "1933-06-13",
+                        "year": "1933",
+                        "peso": "1092.24"
+                    },
+                    {
+                        "title": "I Like Mountain Music - 1995 (Turner Redrawn & Colorized Version).mp4",
+                        "date": "1933-06-13b",
+                        "year": "1933",
+                        "peso": "46.49"
+                    },
+                    {
+                        "title": "I Like Mountain Music (uncensored)  (Radio & Television Packagers redrawn and colorized version).mp4",
+                        "date": "1933-06-13c",
+                        "year": "1933",
+                        "peso": "22.16"
+                    }
+                ],
+                "episode": 2153510,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/pMFqGKPKfYuwGVF4UF1WnV7VEWb.jpg",
+                "titulo_es": "I Like Mountain Music",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-49",
+                "title": "Looney Tunes",
+                "date": "2023-09-22",
+                "start_date": "06:40",
+                "end_date": "06:49",
+                "runtime": 9,
+                "description": "Duck Dodgers in the 24th 1/2 Century. Duck Dodgers y Marvin el Marciano libran una guerra sobre el Planeta X.",
+                "episode_title": "49",
+                "release_year": "1935",
+                "status": [
+                    {
+                        "title": "Gold Diggers Of '49 - Porky & Beans & Little Kitty (uncensored) (DVD).mkv",
+                        "date": "1935-12-00a",
+                        "year": "1935",
+                        "peso": "285.49"
+                    },
+                    {
+                        "title": "Gold Diggers Of '49 - Porky & Beans & Little Kitty COLORIZED 1990.mkv",
+                        "date": "1935-12-00b",
+                        "year": "1935",
+                        "peso": "375.01"
+                    },
+                    {
+                        "title": "--    1  492.47 MB 04Mar2020 07:47:18 Philbert (DVD).mkv",
+                        "date": "Philbert (DVD).mk",
+                        "year": "Miscellaneous Shorts",
+                        "peso": "492.47"
+                    },
+                    {
+                        "title": "--    1  144.49 MB 04Mar2020 07:51:38 Freeze Frame (TV).mkv",
+                        "date": "Freeze Frame (TV).mk",
+                        "year": "Post-classic Shorts",
+                        "peso": "144.49"
+                    },
+                    {
+                        "title": "--    1  442.33 MB 05Nov2020 07:21:49 From Hare To Eternity (1080p HBOMax).mkv",
+                        "date": "From Hare To Eternity (1080p HBOMax).mk",
+                        "year": "Post-classic Shorts",
+                        "peso": "442.33"
+                    }
+                ],
+                "episode": 1973852,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/AcK492mBgDZfZXGfVbiMRVGhcFM.jpg",
+                "titulo_es": "Gold Diggers of '49",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Fin-N-Catty",
+                "title": "Looney Tunes",
+                "date": "2023-09-22",
+                "start_date": "06:49",
+                "end_date": "06:56",
+                "runtime": 7,
+                "description": "Un gato frustrado intenta sacar a un pez dorado de la pecera, pero el pez siempre le da batalla.",
+                "episode_title": "Fin'n Catty",
+                "release_year": "1943",
+                "status": [
+                    {
+                        "title": "Fin'n Catty (1080p HBOMax).mkv",
+                        "date": "1943-10-23",
+                        "year": "1943",
+                        "peso": "400.81"
+                    }
+                ],
+                "episode": 2188340,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/nIu2qdU2I4NAdh2zMoKubcRFsGf.jpg",
+                "titulo_es": "Fin'n Catty",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Sugar and Spies",
+                "title": "Looney Tunes",
+                "date": "2023-09-22",
+                "start_date": "06:56",
+                "end_date": "07:02",
+                "runtime": 6,
+                "description": "Un esp\u00eda al que lo persigue la polic\u00eda arroja su \"Kit de esp\u00eda\". El Coyote lo encuentra y lo usa como ayuda para perseguir al Correcaminos.",
+                "episode_title": "Sugar and Spies",
+                "release_year": "1966",
+                "status": [
+                    {
+                        "title": "Sugar And Spies - Roadrunner, Wile E. Coyote (1080p HBOMax).mkv",
+                        "date": "1966-11-05",
+                        "year": "1966",
+                        "peso": "395.02"
+                    }
+                ],
+                "episode": 2207370,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/jsw5T9QyXgo5Lg4S6rFlBBjZHlQ.jpg",
+                "titulo_es": "Sugar and Spies",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Now Hear This",
+                "title": "Looney Tunes",
+                "date": "2023-09-22",
+                "start_date": "07:02",
+                "end_date": "07:09",
+                "runtime": 7,
+                "description": "Bugs Bunny lucha contra el Gran Lobo Malo para evitar que se lo coma para la cena.",
+                "episode_title": "Now Hear This",
+                "release_year": "1963",
+                "status": [
+                    {
+                        "title": "Now Hear This (1080p HBOMax).mkv",
+                        "date": "1963-04-27",
+                        "year": "1963",
+                        "peso": "406.85"
+                    }
+                ],
+                "episode": 2535594,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/c6s32KJEzF8saRma2Y0BBNg2l8C.jpg",
+                "titulo_es": "Now Hear This",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Mouse Menace",
+                "title": "Looney Tunes",
+                "date": "2023-09-22",
+                "start_date": "07:09",
+                "end_date": "07:18",
+                "runtime": 9,
+                "description": "Porky hace cualquier cosa por deshacerse del rat\u00f3n que vive en su casa.",
+                "episode_title": "Mouse Menace",
+                "release_year": "1946",
+                "status": [
+                    {
+                        "title": "Mouse Menace - Porky (DVD).mkv",
+                        "date": "1946-11-02",
+                        "year": "1946",
+                        "peso": "241.36"
+                    }
+                ],
+                "episode": 2110810,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/41ydXyDDFeBlpCfNg2WT1xXx6JS.jpg",
+                "titulo_es": "Mouse Menace",
+                "repetido": false
+            }
+        ]
+    },
+    {
         "date": "2023-09-21",
         "programs": [
             {

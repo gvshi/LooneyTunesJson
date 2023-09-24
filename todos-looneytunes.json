@@ -1877,5 +1877,202 @@
                 "repetido": false
             }
         ]
+    },
+    {
+        "date": "2023-09-25",
+        "programs": [
+            {
+                "id": "Looney Tunes-Just Plane Beep",
+                "title": "Looney Tunes",
+                "date": "2023-09-25",
+                "start_date": "06:24",
+                "end_date": "06:31",
+                "runtime": 7,
+                "description": "El Coyote se entera de la existencia de una venta de excedentes de guerra marca ACME y encarga un biplano antiguo de la Primera Guerra Mundial.",
+                "episode_title": "Just Plane Beep",
+                "release_year": "1965",
+                "status": [
+                    {
+                        "title": "Just Plane Beep - Roadrunner, Wile E. Coyote (1080p HBOMax).mkv",
+                        "date": "1965-10-30",
+                        "year": "1965",
+                        "peso": "417.32"
+                    }
+                ],
+                "episode": 1883747,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/P16FDMzwdMytNCb6XNc4zeFCPx.jpg",
+                "titulo_es": "Just Plane Beep",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Hare Do",
+                "title": "Looney Tunes",
+                "date": "2023-09-25",
+                "start_date": "06:31",
+                "end_date": "06:39",
+                "runtime": 8,
+                "description": "Elmer Gru\u00f1\u00f3n persigue a Bugs Bunny con un \"detector de conejos\", pero no parece funcionar cuando Bugs Bunny lo conduce hasta un acantilado.",
+                "episode_title": "Hare Do",
+                "release_year": "1949",
+                "status": [
+                    {
+                        "title": "Hare Do - Bugs Bunny, Elmer (uncensored) (1080p HBOMax).mkv",
+                        "date": "1949-01-15",
+                        "year": "1949",
+                        "peso": "462.99"
+                    }
+                ],
+                "episode": 2877841,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/iOT3FaZHF1e27fh6Z1vj6n66bLI.jpg",
+                "titulo_es": "Hare Do",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Show Biz Bugs",
+                "title": "Looney Tunes",
+                "date": "2023-09-25",
+                "start_date": "06:39",
+                "end_date": "06:48",
+                "runtime": 9,
+                "description": "Lucas est\u00e1 celoso porque el programa de Bugs Bunny es m\u00e1s popular que el suyo.",
+                "episode_title": "Show Biz Bugs",
+                "release_year": "1957",
+                "status": [
+                    {
+                        "title": "Show Biz Bugs - Bugs Bunny, Daffy Duck (uncensored) (BR).mkv",
+                        "date": "1957-11-02",
+                        "year": "1957",
+                        "peso": "609.74"
+                    }
+                ],
+                "episode": 1883753,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/rDCEDiPt0yXQ0VJaO9zkkarYPBj.jpg",
+                "titulo_es": "Show Biz Bugs",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Gift Wrapped",
+                "title": "Looney Tunes",
+                "date": "2023-09-25",
+                "start_date": "06:48",
+                "end_date": "06:55",
+                "runtime": 7,
+                "description": "Lleg\u00f3 la Navidad y Silvestre trata de intercambiar su regalo con el de Abuelita, que es Piol\u00edn en una jaula.",
+                "episode_title": "Gift Wrapped",
+                "release_year": "1952",
+                "status": [
+                    {
+                        "title": "Gift Wrapped - Tweety, Sylvester, Granny, Hector (uncensored) (BR).mkv",
+                        "date": "1952-02-16b",
+                        "year": "1952",
+                        "peso": "434.69"
+                    }
+                ],
+                "episode": 2198536,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/hz0o6AtU8ukHnOQekVQMSKLX8RK.jpg",
+                "titulo_es": "Gift Wrapped",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Notes to You",
+                "title": "Looney Tunes",
+                "date": "2023-09-25",
+                "start_date": "06:55",
+                "end_date": "07:03",
+                "runtime": 8,
+                "description": "Porky Pig is annoyed by a roguish cat that interrupts his sleep by constant howling on the backyard fence.",
+                "episode_title": "Notes to You",
+                "release_year": "1941",
+                "status": [
+                    {
+                        "title": "Notes To You - Porky (uncensored) (DVD).mkv",
+                        "date": "1941-09-20a",
+                        "year": "1941",
+                        "peso": "100.28"
+                    },
+                    {
+                        "title": "Notes To You - Porky (uncensored) - 1080p (MeTV version w logo).mp4",
+                        "date": "1941-09-20a",
+                        "year": "1941",
+                        "peso": "1049.12"
+                    },
+                    {
+                        "title": "Notes To You - Porky (uncensored) - Redrawn and COLORIZED 1960s (vhs).mkv",
+                        "date": "1941-09-20b",
+                        "year": "1941",
+                        "peso": "114.79"
+                    },
+                    {
+                        "title": "Notes To You - Porky (uncensored) COLORIZED 1990s.mp4",
+                        "date": "1941-09-20c",
+                        "year": "1941",
+                        "peso": "48.57"
+                    },
+                    {
+                        "title": "Back Alley Oproar - Elmer, Sylvester; remake of Notes to You (uncensored) (1080p HBOMax).mkv",
+                        "date": "1948-03-27",
+                        "year": "1948",
+                        "peso": "472.87"
+                    }
+                ],
+                "episode": 2369445,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/dfqASuWh33weqt0B381hM0uJpBt.jpg",
+                "titulo_es": "Notes to You",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-The Dixie Fryer",
+                "title": "Looney Tunes",
+                "date": "2023-09-25",
+                "start_date": "07:03",
+                "end_date": "07:09",
+                "runtime": 6,
+                "description": "Dos halcones campesinos persiguen al Gallo Claudio: Pappy y Elvis.",
+                "episode_title": "The Dixie Fryer",
+                "release_year": "1960",
+                "status": [
+                    {
+                        "title": "The Dixie Fryer - Foghorn Leghorn, Pappy & Elvis (chickenhawks) (uncensored) (1080p iTunes version).mp4",
+                        "date": "1960-09-24",
+                        "year": "1960",
+                        "peso": "215.21"
+                    }
+                ],
+                "episode": 1914847,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/sgZQX24zg4pN1tIQmWmkdnjxoYG.jpg",
+                "titulo_es": "The Dixie Fryer",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Acrobatty Bunny",
+                "title": "Looney Tunes",
+                "date": "2023-09-25",
+                "start_date": "07:09",
+                "end_date": "07:19",
+                "runtime": 10,
+                "description": "Mientras Bugs Bunny duerme, un circo llega a la ciudad y pone la jaula del le\u00f3n sobre su madriguera.",
+                "episode_title": "Acrobatty Bunny",
+                "release_year": "1946",
+                "status": [
+                    {
+                        "title": "Acrobatty Bunny - Bugs Bunny (1080p HBOMax).mkv",
+                        "date": "1946-06-29",
+                        "year": "1946",
+                        "peso": "476.99"
+                    }
+                ],
+                "episode": 1979565,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/p52X6MEfusPJRo3Sj14c3nFvGLq.jpg",
+                "titulo_es": "Acrobatty Bunny",
+                "repetido": false
+            }
+        ]
     }
 ]
