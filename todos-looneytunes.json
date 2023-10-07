@@ -4582,5 +4582,220 @@
                 "repetido": false
             }
         ]
+    },
+    {
+        "date": "2023-10-09",
+        "programs": [
+            {
+                "id": "Looney Tunes-One More Time",
+                "title": "Looney Tunes",
+                "date": "2023-10-09",
+                "start_date": "06:32",
+                "end_date": "06:39",
+                "runtime": 7,
+                "description": "Foxy, el oficial de polic\u00eda, decide que la pr\u00f3xima persona que quebrante la ley tendr\u00e1 serios problemas.",
+                "episode_title": "One More Time",
+                "release_year": "1931",
+                "status": [
+                    {
+                        "title": "One More Time - Foxy (DVD).mkv",
+                        "date": "1931-10-03",
+                        "year": "1931",
+                        "peso": "135.37"
+                    },
+                    {
+                        "title": "One More Time - Foxy (Radio & Television Packagers redrawn and colorized version).mp4",
+                        "date": "1931-10-03b",
+                        "year": "1931",
+                        "peso": "19.89"
+                    }
+                ],
+                "episode": 2110816,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/6axXNBvFYoO3LYEusIk15PlS8SZ.jpg",
+                "titulo_es": "One More Time",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Who's Kitten Who",
+                "title": "Looney Tunes",
+                "date": "2023-10-09",
+                "start_date": "06:39",
+                "end_date": "06:47",
+                "runtime": 8,
+                "description": "El canguro Hippety Hopper se escapa del zool\u00f3gico y termina en el s\u00f3tano de la casa de Silvestre y su hijo Junior. Pero los gatos confunden a Hippety con un rat\u00f3n gigante y Silvestre es golpeado una y otra vez por el juguet\u00f3n canguro.",
+                "episode_title": "Who's Kitten Who",
+                "release_year": "1952",
+                "status": [
+                    {
+                        "title": "Who's Kitten Who - Sylvester, Junior, Hippety Hopper (uncensored) (1080p HBOMax).mkv",
+                        "date": "1952-01-05",
+                        "year": "1952",
+                        "peso": "448.39"
+                    }
+                ],
+                "episode": 2277423,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/iHrp3VuR8QeXiWF1819VHGCZMv5.jpg",
+                "titulo_es": "Who's Kitten Who?",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Double Chaser",
+                "title": "Looney Tunes",
+                "date": "2023-10-09",
+                "start_date": "06:47",
+                "end_date": "06:54",
+                "runtime": 7,
+                "description": "Un gato persigue a un rat\u00f3n y, a su vez, un bulldog persigue al gato.",
+                "episode_title": "Double Chaser",
+                "release_year": "1942",
+                "status": [
+                    {
+                        "title": "Double Chaser (COLOR) (1080p HBOMax).mkv",
+                        "date": "1942-06-27b",
+                        "year": "1942",
+                        "peso": "440.57"
+                    }
+                ],
+                "episode": 2060222,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/d7E3OIqLurMdxFBjcvZiJ9qw5zh.jpg",
+                "titulo_es": "Double Chaser",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Sour Puss",
+                "title": "Looney Tunes",
+                "date": "2023-10-09",
+                "start_date": "06:54",
+                "end_date": "07:03",
+                "runtime": 9,
+                "description": "Gaguinho l\u00ea no jornal que a temporada de pesca est\u00e1 come\u00e7ando. No dia seguinte, ele captura um peixe bob\u00e3o que come\u00e7a a provoc\u00e1-lo incessantemente.",
+                "episode_title": "Sour Puss",
+                "release_year": "1940",
+                "status": [
+                    {
+                        "title": "The Sour Puss - Porky (DVD).mkv",
+                        "date": "1940-11-02a",
+                        "year": "1940",
+                        "peso": "224.17"
+                    },
+                    {
+                        "title": "The Sour Puss - Porky (uncensored) - Redrawn and COLORIZED 1960s.mp4",
+                        "date": "1940-11-02b",
+                        "year": "1940",
+                        "peso": "38.09"
+                    },
+                    {
+                        "title": "The Sour Puss - Porky (censored) COLORIZED 1990s.mp4",
+                        "date": "1940-11-02c",
+                        "year": "1940",
+                        "peso": "42.10"
+                    }
+                ],
+                "episode": 2400020,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/sZlmy5eVGptUv24FgjPPLDte8n.jpg",
+                "titulo_es": "The Sour Puss",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Ain't She Tweet",
+                "title": "Looney Tunes",
+                "date": "2023-10-09",
+                "start_date": "07:03",
+                "end_date": "07:10",
+                "runtime": 7,
+                "description": "Abuelita lleva a Piol\u00edn a casa y Silvestre pone en pr\u00e1ctica toda clase de dispositivo para librarse de los perros que custodian a Piol\u00edn en la casa.",
+                "episode_title": "Ain't She Tweet",
+                "release_year": "1952",
+                "status": [
+                    {
+                        "title": "Ain't She Tweet - Tweety, Sylvester, multiple Hectors (uncensored) (1080p HBOMax).mkv",
+                        "date": "1952-06-21",
+                        "year": "1952",
+                        "peso": "439.61"
+                    }
+                ],
+                "episode": 1938853,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/4k3lPFbRmkF8gSg2cbst45cHOuS.jpg",
+                "titulo_es": "Ain't She Tweet",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-A Bear for Punishment",
+                "title": "Looney Tunes",
+                "date": "2023-10-09",
+                "start_date": "07:10",
+                "end_date": "07:17",
+                "runtime": 7,
+                "description": "Es el d\u00eda del padre en el hogar de los tres osos y Pa se frustra bastante intentando escapar de la costumbre incansable que su hijo tiene de amar a su pap\u00e1.",
+                "episode_title": "A Bear for Punishment",
+                "release_year": "1951",
+                "status": [
+                    {
+                        "title": "A Bear For Punishment - Three Bears (uncensored) (1080p HBOMax).mkv",
+                        "date": "1951-10-20",
+                        "year": "1951",
+                        "peso": "441.18"
+                    }
+                ],
+                "episode": 1938847,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/r7bDSFcJCjZ6dQcZ6XhxOwLWXW9.jpg",
+                "titulo_es": "A Bear for Punishment",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Rabbit Seasoning",
+                "title": "Looney Tunes",
+                "date": "2023-10-09",
+                "start_date": "07:17",
+                "end_date": "07:24",
+                "runtime": 7,
+                "description": "Una vez m\u00e1s, Elmer est\u00e1 tratando de cazar a Lucas y a Bugs Bunny. Bugs Bunny convence a Elmer de salir a buscar a Lucas, a quien terminan haci\u00e9ndole la peor de las bromas.",
+                "episode_title": "Rabbit Seasoning",
+                "release_year": "1952",
+                "status": [
+                    {
+                        "title": "Rabbit Seasoning - Bugs Bunny, Daffy Duck, Elmer (uncensored) (1080p HBOMax).mkv",
+                        "date": "1952-09-20",
+                        "year": "1952",
+                        "peso": "419.19"
+                    }
+                ],
+                "episode": 1883751,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/u8CxPJ2010lK9tvd4a0LgHTyjMW.jpg",
+                "titulo_es": "Rabbit Seasoning",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Rookie Revue",
+                "title": "Looney Tunes",
+                "date": "2023-10-09",
+                "start_date": "07:24",
+                "end_date": "07:34",
+                "runtime": 10,
+                "description": "Los Toons hacen una parodia de la milicia como solo los Toons pueden hacerlo.",
+                "episode_title": "Rookie Revue",
+                "release_year": "1941",
+                "status": [
+                    {
+                        "title": "Rookie Revue (uncensored) (COLOR) (1080p HBOMax).mkv",
+                        "date": "1941-10-25d",
+                        "year": "1941",
+                        "peso": "474.60"
+                    }
+                ],
+                "episode": 2035798,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/oZ6MaJekLAC6jVfa1pPA4dOHc2S.jpg",
+                "titulo_es": "Rookie Revue",
+                "repetido": false
+            }
+        ]
     }
 ]
