@@ -13533,5 +13533,405 @@
                 "repetido": false
             }
         ]
+    },
+    {
+        "date": "2023-10-16",
+        "programs": [
+            {
+                "id": "Looney Tunes-Road to Andalay",
+                "title": "Looney Tunes",
+                "date": "2023-10-16",
+                "start_date": "06:33",
+                "end_date": "06:40",
+                "runtime": 7,
+                "description": "Silvestre le pide a un halc\u00f3n que lo ayude en su intento de atrapar a Speedy Gonz\u00e1lez en el desierto.",
+                "episode_title": "Road to Andalay",
+                "release_year": "1964",
+                "status": [
+                    {
+                        "title": "Road To Andalay - Speedy Gonzales, Sylvester (uncensored) - 1080p Warnermedia Ride App Version.mp4",
+                        "date": "1964-12-26",
+                        "year": "1964",
+                        "peso": "951.27"
+                    }
+                ],
+                "episode": 2294291,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/qBPyg8TxGY5qBrykJcrIsWDdM6L.jpg",
+                "titulo_es": "Road to Andalay",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-A Gruesome Twosome",
+                "title": "Looney Tunes",
+                "date": "2023-10-16",
+                "start_date": "06:40",
+                "end_date": "06:47",
+                "runtime": 7,
+                "description": "Dos gatos buscan llamar la atenci\u00f3n de una sexy felina con un p\u00e1jaro. Ponen sus ojos en Piol\u00edn, pero los deja muy atotados cuando los golpea con una maza. Los gatos se disfrazan de caballo, pero Piol\u00edn lo descubre y pone una abeja dentro del traje.",
+                "episode_title": "A Gruesome Twosome",
+                "release_year": "1945",
+                "status": [
+                    {
+                        "title": "A Gruesome Twosome - Tweety, Schnooks (yellow), Durante cat (uncensored) (BR).mkv",
+                        "date": "1945-06-09",
+                        "year": "1945",
+                        "peso": "607.22"
+                    }
+                ],
+                "episode": 2158314,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/79qmzCSGksYG0hciEC9ENsPbF10.jpg",
+                "titulo_es": "A Gruesome Twosome",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Double or Mutton",
+                "title": "Looney Tunes",
+                "date": "2023-10-16",
+                "start_date": "06:47",
+                "end_date": "06:56",
+                "runtime": 9,
+                "description": "El perro Sam Sheepdog intenta detener al lobo Ralph Wolf, quien quiere robarse las ovejas.",
+                "episode_title": "Double or Mutton",
+                "release_year": "1955",
+                "status": [
+                    {
+                        "title": "Double Or Mutton - Ralph Wolf and Sam Sheepdog (uncensored) (1080p HBOMax).mkv",
+                        "date": "1955-07-13",
+                        "year": "1955",
+                        "peso": "410.43"
+                    }
+                ],
+                "episode": 2024319,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/zh6l7rx016NTHC1i28XfFEIwFix.jpg",
+                "titulo_es": "Double or Mutton",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-An Itch in Time",
+                "title": "Looney Tunes",
+                "date": "2023-10-16",
+                "start_date": "06:56",
+                "end_date": "07:04",
+                "runtime": 8,
+                "description": "Una pulga salta a la cola de un perro \u00a1comida rica! Elmer le dice al perro que si vuelve a rascarse, tendr\u00e1 que darle un ba\u00f1o. La pulga sigue picando al perro, entonces Elmer ba\u00f1a al perro, pero perro y amo terminan mojados.",
+                "episode_title": "An Itch in Time",
+                "release_year": "1943",
+                "status": [
+                    {
+                        "title": "An Itch In Time - Elmer, Homeless Flea (uncensored) (BR).mkv",
+                        "date": "1943-12-04",
+                        "year": "1943",
+                        "peso": "813.80"
+                    }
+                ],
+                "episode": 2173703,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/bSnjn5R6m2giNbStMQemYqQhXh4.jpg",
+                "titulo_es": "An Itch in Time",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Hiss and Make Up",
+                "title": "Looney Tunes",
+                "date": "2023-10-16",
+                "start_date": "07:04",
+                "end_date": "07:12",
+                "runtime": 8,
+                "description": "Roscoe, el perro, y Wellington, el gato, pelean toda la noche. Mientras la abuela duerma, tratan de echarse culpas entre ellos para que los castiguen. Wellington deja huellas de pata de perro por toda la casa, mientras que Roscoe llena la casa de ratones mec\u00e1nicos.",
+                "episode_title": "Hiss and Make Up",
+                "release_year": "1943",
+                "status": [
+                    {
+                        "title": "Hiss And Make Up - Prototype Granny (DVD).mkv",
+                        "date": "1943-09-11",
+                        "year": "1943",
+                        "peso": "166.55"
+                    },
+                    {
+                        "title": "Hiss And Make Up - Prototype Granny - 1080p (MeTV version w logo).mp4",
+                        "date": "1943-09-11",
+                        "year": "1943",
+                        "peso": "1652.56"
+                    }
+                ],
+                "episode": 2165592,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/e6FnKSryVARqKzEyvxKxBTCT7.jpg",
+                "titulo_es": "Hiss and Make Up",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Two Gophers From Texas",
+                "title": "Looney Tunes",
+                "date": "2023-10-16",
+                "start_date": "07:12",
+                "end_date": "07:19",
+                "runtime": 7,
+                "description": "Un perro est\u00e1 aprendiendo a vivir en la naturaleza usando El Libro de la Vida en el Bosque.",
+                "episode_title": "Two Gophers From Texas",
+                "release_year": "1948",
+                "status": [
+                    {
+                        "title": "Two Gophers From Texas - Goofy Gophers (1080p HBOMax).mkv",
+                        "date": "1948-01-17",
+                        "year": "1948",
+                        "peso": "423.50"
+                    }
+                ],
+                "episode": 2172292,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/feUBqc46itGWT1SrUO7NDA49ASE.jpg",
+                "titulo_es": "Two Gophers from Texas",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-The Hypo-Chondri-Cat",
+                "title": "Looney Tunes",
+                "date": "2023-10-16",
+                "start_date": "07:19",
+                "end_date": "07:29",
+                "runtime": 10,
+                "description": "Los ratones Hubie y Bertie entran en una casa nueva y se abrigan al calor de la chimenea, hasta que los empieza a perseguir Claudio, el gato de la casa.",
+                "episode_title": "The Hypo-Chondri-Cat",
+                "release_year": "1950",
+                "status": [
+                    {
+                        "title": "The Hypo-Chondri-Cat - Hubie & Bertie, Claude Cat (uncensored) (1080p HBOMax).mkv",
+                        "date": "1950-04-15",
+                        "year": "1950",
+                        "peso": "449.99"
+                    }
+                ],
+                "episode": 3197775,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/7pKYykGG2j8tMinpfETAwGq6arc.jpg",
+                "titulo_es": "Gato hipocondr\u00edaco",
+                "repetido": false
+            }
+        ]
+    },
+    {
+        "date": "2023-10-17",
+        "programs": [
+            {
+                "id": "Looney Tunes-Hare Trimmed",
+                "title": "Looney Tunes",
+                "date": "2023-10-17",
+                "start_date": "06:27",
+                "end_date": "06:34",
+                "runtime": 7,
+                "description": "Abuelita se encuentra atrapada en un tri\u00e1ngulo amoroso entre Sam y Bugs Bunny cuando ambos pelean por pedirle matrimonio.",
+                "episode_title": "Hare Trimmed",
+                "release_year": "1953",
+                "status": [
+                    {
+                        "title": "Hare Trimmed - Bugs Bunny, Yosemite Sam, Granny (uncensored) (1080p HBOMax).mkv",
+                        "date": "1953-06-20",
+                        "year": "1953",
+                        "peso": "425.02"
+                    }
+                ],
+                "episode": 1973860,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/lZC18iXPDQW26HDr8v615F0JBkz.jpg",
+                "titulo_es": "Hare Trimmed",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Hillbilly Hare",
+                "title": "Looney Tunes",
+                "date": "2023-10-17",
+                "start_date": "06:34",
+                "end_date": "06:41",
+                "runtime": 7,
+                "description": "Bugs Bunny da un giro equivocado y termina en los Ozarks, donde se encuentra con los ca\u00f1ones de las escopetas de dos campesinos.",
+                "episode_title": "Hillbilly Hare",
+                "release_year": "1950",
+                "status": [
+                    {
+                        "title": "Hillbilly Hare - Bugs Bunny (uncensored) (BR).mkv",
+                        "date": "1950-08-12",
+                        "year": "1950",
+                        "peso": "565.76"
+                    }
+                ],
+                "episode": 1923021,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/jgJdpzr0bWIFqp5ggsIpVt3euzK.jpg",
+                "titulo_es": "Hillbilly Hare",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Shamrock and Roll",
+                "title": "Looney Tunes",
+                "date": "2023-10-17",
+                "start_date": "06:41",
+                "end_date": "06:50",
+                "runtime": 9,
+                "description": "Merl\u00edn el Rat\u00f3n M\u00e1gico y su asistente deciden hacer un viaje a Irlanda, donde conocen a un duende llamado O'Reilly.",
+                "episode_title": "Shamrock and Roll",
+                "release_year": "1969",
+                "status": [
+                    {
+                        "title": "Shamrock And Roll - Merlin (1080p HBOMax).mkv",
+                        "date": "1969-06-28",
+                        "year": "1969",
+                        "peso": "416.58"
+                    }
+                ],
+                "episode": 1824126,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/z7n7YR8IKKmptfAA4yiqHnf19W1.jpg",
+                "titulo_es": "Shamrock and Roll",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Tom Thumb in Trouble",
+                "title": "Looney Tunes",
+                "date": "2023-10-17",
+                "start_date": "06:50",
+                "end_date": "06:58",
+                "runtime": 8,
+                "description": "Hab\u00eda una vez un bosque oscuro donde viv\u00eda un le\u00f1ador y su peque\u00f1o hijo Tom Thumb.",
+                "episode_title": "Tom Thumb in Trouble",
+                "release_year": "1940",
+                "status": [
+                    {
+                        "title": "Tom Thumb In Trouble (COLOR) (1080p HBOMax).mkv",
+                        "date": "1940-06-08d",
+                        "year": "1940",
+                        "peso": "506.77"
+                    }
+                ],
+                "episode": 2110841,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/gFBggF5rIHg5D1HbNIYqMlQbli5.jpg",
+                "titulo_es": "Tom Thumb in Trouble",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Lighter Than Hare",
+                "title": "Looney Tunes",
+                "date": "2023-10-17",
+                "start_date": "06:58",
+                "end_date": "07:06",
+                "runtime": 8,
+                "description": "Sam env\u00eda a su robot a la Tierra para que capture a Bugs Bunny en su hogar.",
+                "episode_title": "Lighter Than Hare",
+                "release_year": "1960",
+                "status": [
+                    {
+                        "title": "Lighter Than Hare - Bugs Bunny, Yosemite Sam (uncensored) (1080p HBOMax).mkv",
+                        "date": "1960-12-17",
+                        "year": "1960",
+                        "peso": "454.09"
+                    }
+                ],
+                "episode": 1973866,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/qbXUjIbifDU0NV1dMFrUufNY5zN.jpg",
+                "titulo_es": "Lighter Than Hare",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Greetings Bait",
+                "title": "Looney Tunes",
+                "date": "2023-10-17",
+                "start_date": "07:06",
+                "end_date": "07:13",
+                "runtime": 7,
+                "description": "Un pescador baja la l\u00ednea al agua y utiliza el Wacky Worm como carnada. El gusano se pone una gorra de ba\u00f1o, va al fondo e intenta que los peces coman la carnada y se queden enganchados en la l\u00ednea.",
+                "episode_title": "Greetings Bait",
+                "release_year": "1943",
+                "status": [
+                    {
+                        "title": "Greetings Bait - Jerry Colonna worm (1080p HBOMax).mkv",
+                        "date": "1943-05-15b",
+                        "year": "1943",
+                        "peso": "429.66"
+                    }
+                ],
+                "episode": 2418623,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/eVyet43LiGyXb7nJG7qmdKnIXdn.jpg",
+                "titulo_es": "Greetings Bait",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Kitty Kornered",
+                "title": "Looney Tunes",
+                "date": "2023-10-17",
+                "start_date": "07:13",
+                "end_date": "07:20",
+                "runtime": 7,
+                "description": "Los gatos de Porky lo echan de su propia casa. Cuando Porky vuelve a entrar, busca a todos los gatos y los amenaza con un perro. La mayor\u00eda de los gatos huye hasta que a Silvestre se le ocurre un plan para quedarse con la casa.",
+                "episode_title": "Kitty Kornered",
+                "release_year": "1946",
+                "status": [
+                    {
+                        "title": "Kitty Kornered - Porky, Sylvester (uncensored) (BR).mkv",
+                        "date": "1946-06-08",
+                        "year": "1946",
+                        "peso": "680.14"
+                    }
+                ],
+                "episode": 2110802,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/hiiPNdaA9VEfLEPBz64rY37VBfm.jpg",
+                "titulo_es": "Kitty Kornered",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Lovelorn Leghorn",
+                "title": "Looney Tunes",
+                "date": "2023-10-17",
+                "start_date": "07:20",
+                "end_date": "07:27",
+                "runtime": 7,
+                "description": "El perro ataca al Gallo Claudio, pero la situaci\u00f3n se convierte en un partido de f\u00fatbol americano en el que el gallo patea al perro. La Srta. Prissy, quien busca marido, disfraza una bola de bolos para poder vengarse de Claudio por haber herido al perro.",
+                "episode_title": "Lovelorn Leghorn",
+                "release_year": "1951",
+                "status": [
+                    {
+                        "title": "Lovelorn Leghorn - Foghorn Leghorn, Ms. Prissy (1080p HBOMax).mkv",
+                        "date": "1951-09-08",
+                        "year": "1951",
+                        "peso": "449.29"
+                    }
+                ],
+                "episode": 1882441,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/odj8L6vuXUyQpFc8P6H91shcTDF.jpg",
+                "titulo_es": "Lovelorn Leghorn",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Rocket-Bye Baby",
+                "title": "Looney Tunes",
+                "date": "2023-10-17",
+                "start_date": "07:27",
+                "end_date": "07:36",
+                "runtime": 9,
+                "description": "Durante el verano de 1954, la Tierra y Marte est\u00e1n tan cerca que, por accidente, un beb\u00e9 marciano es entregado en la casa de unos terr\u00edcolas. Joseph Wilbur y su esposa intentan criar al ingenioso beb\u00e9 marciano de piel verde como si fuera uno de ellos.",
+                "episode_title": "Rocket-Bye Baby",
+                "release_year": "1956",
+                "status": [
+                    {
+                        "title": "Rocket-bye Baby (BR).mkv",
+                        "date": "1956-08-04",
+                        "year": "1956",
+                        "peso": "474.67"
+                    }
+                ],
+                "episode": 2325027,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/9KRkMK5zP3aJGEAPW23lNjFtMGa.jpg",
+                "titulo_es": "Rocket-bye Baby",
+                "repetido": false
+            }
+        ]
     }
 ]
