@@ -1,5 +1,357 @@
 [
     {
+        "date": "2023-10-30",
+        "programs": [
+            {
+                "id": "Looney Tunes-Dog Tired",
+                "title": "Looney Tunes",
+                "date": "2023-10-30",
+                "start_date": "06:39",
+                "end_date": "06:46",
+                "runtime": 7,
+                "description": "Un auto asusta a dos perros que estaban cavando un pozo. En su desesperaci\u00f3n, saltan un muro y acaban en un zool\u00f3gico.",
+                "episode_title": "Dog Tired",
+                "release_year": "1942",
+                "status": [
+                    {
+                        "title": "Dog Tired - Two Curious Dogs (COLOR) (1080p HBOMax).mkv",
+                        "date": "1942-04-25",
+                        "year": "1942",
+                        "peso": "448.73"
+                    }
+                ],
+                "episode": 2060220,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/uN9eqe6NTWGD8cRWth1RwO2BOUv.jpg",
+                "titulo_es": "Dog Tired",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Wacky Wabbitt",
+                "title": "Looney Tunes",
+                "date": "2023-10-30",
+                "start_date": "06:46",
+                "end_date": "06:53",
+                "runtime": 7,
+                "description": "Elmer Gru\u00f1\u00f3n est\u00e1 explorando en busca de oro en el desierto. Para ello, cava pozos y lanza un cartucho de dinamita en cada uno. Pero en cada ocasi\u00f3n, Bugs Bunny se lo lanza de regreso.",
+                "episode_title": "The Wacky Wabbit",
+                "release_year": "1942",
+                "status": [
+                    {
+                        "title": "The Wacky Wabbit - Bugs Bunny, Fat Elmer (COLOR) (1080p HBOMax).mkv",
+                        "date": "1942-05-02d",
+                        "year": "1942",
+                        "peso": "454.21"
+                    }
+                ],
+                "episode": 2188341,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/l1w7B1XdEZUurZRM61StOcYWUsk.jpg",
+                "titulo_es": "The Wacky Wabbit",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Red Riding Hoodwinked",
+                "title": "Looney Tunes",
+                "date": "2023-10-30",
+                "start_date": "06:53",
+                "end_date": "07:02",
+                "runtime": 9,
+                "description": "La cl\u00e1sica historia de Caperucita Roja da un nuevo giro. Esta historia sobre Caperucita lleva a Piol\u00edn de visita en la casa de su abuelita enferma.",
+                "episode_title": "Red Riding Hoodwinked",
+                "release_year": "1955",
+                "status": [
+                    {
+                        "title": "Red Riding Hoodwinked - Sylvester, Tweety, Granny, forgetful wolf (uncensored) (1080p HBOMax).mkv",
+                        "date": "1955-10-29",
+                        "year": "1955",
+                        "peso": "428.38"
+                    }
+                ],
+                "episode": 2167895,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/hs9F64ZcUqdg5U0D03w99amNtqX.jpg",
+                "titulo_es": "Red Riding Hoodwinked",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Bonanza Bunny",
+                "title": "Looney Tunes",
+                "date": "2023-10-30",
+                "start_date": "07:02",
+                "end_date": "07:09",
+                "runtime": 7,
+                "description": "En el a\u00f1o 1896, Bugs Bunny llega a un pueblo que tiene minas de oro y desaf\u00eda a duelo a una versi\u00f3n franco-canadiense de Sam Bigotes.",
+                "episode_title": "Bonanza Bunny",
+                "release_year": "1959",
+                "status": [
+                    {
+                        "title": "Bonanza Bunny - Bugs Bunny, Black Jacque Shellaque (uncensored) (BR).mkv",
+                        "date": "1959-09-05",
+                        "year": "1959",
+                        "peso": "706.53"
+                    }
+                ],
+                "episode": 1989513,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/g9kV7zAMIGdXk2vsKXDWWdwi74D.jpg",
+                "titulo_es": "Bonanza Bunny",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Honey's Money",
+                "title": "Looney Tunes",
+                "date": "2023-10-30",
+                "start_date": "07:09",
+                "end_date": "07:15",
+                "runtime": 6,
+                "description": "Sam se casa con una viuda fea para quedarse con su dinero.",
+                "episode_title": "Honey's Money",
+                "release_year": "1962",
+                "status": [
+                    {
+                        "title": "Honey's Money - Yosemite Sam (young Mugsy as Wentworth) (uncensored) (1080p HBOMax).mkv",
+                        "date": "1962-09-01",
+                        "year": "1962",
+                        "peso": "385.23"
+                    }
+                ],
+                "episode": 2174325,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/iamGTPyvuO2eUZbTPprOwClxpqm.jpg",
+                "titulo_es": "Honey's Money",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Haredevil Hare",
+                "title": "Looney Tunes",
+                "date": "2023-10-30",
+                "start_date": "07:15",
+                "end_date": "07:23",
+                "runtime": 8,
+                "description": "Lanzan a Bugs al espacio con una enorme cantidad de zanahorias. Llega a la luna, donde conoce a Marvin, el Marciano, y logra detenerlo antes de que haga estallar la Tierra.",
+                "episode_title": "Haredevil Hare",
+                "release_year": "1948",
+                "status": [
+                    {
+                        "title": "Haredevil Hare - Bugs Bunny, Marvin The Martian; end pre-48 era (AAP) (1080p HBOMax).mkv",
+                        "date": "1948-07-25",
+                        "year": "1948",
+                        "peso": "474.55"
+                    }
+                ],
+                "episode": 1989585,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/nENCj9KrOrTYTzrytZLDzoEnELg.jpg",
+                "titulo_es": "Haredevil Hare",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Cross Country Detours",
+                "title": "Looney Tunes",
+                "date": "2023-10-30",
+                "start_date": "07:23",
+                "end_date": "07:35",
+                "runtime": 12,
+                "description": "Una farsa sobre una pel\u00edcula de viajes nos lleva al Parque Nacional Yosemite y a otros lugares como el Gran Ca\u00f1\u00f3n.",
+                "episode_title": "Cross Country Detours",
+                "release_year": "1940",
+                "status": [
+                    {
+                        "title": "Cross Country Detours (COLOR) (uncensored) (DVD).mkv",
+                        "date": "1940-03-16a",
+                        "year": "1940",
+                        "peso": "262.72"
+                    },
+                    {
+                        "title": "Cross Country Detours (COLOR) (uncensored) - 1080p (MeTV version w logo).mp4",
+                        "date": "1940-03-16a",
+                        "year": "1940",
+                        "peso": "405.48"
+                    }
+                ],
+                "episode": 2035796,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/sovlSgnxTMlSJd3lFc82AGuM5tq.jpg",
+                "titulo_es": "Cross Country Detours",
+                "repetido": false
+            }
+        ]
+    },
+    {
+        "date": "2023-10-29",
+        "programs": [
+            {
+                "id": "Looney Tunes-The Solid Tin Coyote",
+                "title": "Looney Tunes",
+                "date": "2023-10-29",
+                "start_date": "06:40",
+                "end_date": "06:46",
+                "runtime": 6,
+                "description": "The coyote attempts several methods to catch the Road Runner.",
+                "episode_title": "The Solid Tin Coyote",
+                "release_year": "1966",
+                "status": [
+                    {
+                        "title": "The Solid Tin Coyote - Roadrunner, Wile E. Coyote (1080p HBOMax).mkv",
+                        "date": "1966-02-19",
+                        "year": "1966",
+                        "peso": "388.74"
+                    }
+                ],
+                "episode": 2412688,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/fVClBy4YMdr7nbMEx7swtPjnIgJ.jpg",
+                "titulo_es": "The Solid Tin Coyote",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-A Witch's Tangled Hare",
+                "title": "Looney Tunes",
+                "date": "2023-10-29",
+                "start_date": "06:46",
+                "end_date": "06:53",
+                "runtime": 7,
+                "description": "En busca de inspiraci\u00f3n po\u00e9tica, William Shakespeare se topa con el castillo de Macbeth y encuentra a la Bruja Hazel, que est\u00e1 persiguiendo a Bugs Bunny all\u00ed dentro.",
+                "episode_title": "A Witch's Tangled Hare",
+                "release_year": "1959",
+                "status": [
+                    {
+                        "title": "A Witch's Tangled Hare - Bugs Bunny, Witch Hazel (1080p HBOMax).mkv",
+                        "date": "1959-10-31",
+                        "year": "1959",
+                        "peso": "392.35"
+                    }
+                ],
+                "episode": 1864482,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/BaHlgji5ZRk4zQCjejxejMpIoA.jpg",
+                "titulo_es": "A Witch's Tangled Hare",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Big Top Bunny",
+                "title": "Looney Tunes",
+                "date": "2023-10-29",
+                "start_date": "06:53",
+                "end_date": "07:02",
+                "runtime": 9,
+                "description": "El acto de Bugs Bunny se convierte en la estrella del circo. Los celos de un oso del espect\u00e1culo, lo llevan a desafiar al conejo en una competencia de acrobacia que se pone cada vez m\u00e1s dif\u00edcil.",
+                "episode_title": "Big Top Bunny",
+                "release_year": "1951",
+                "status": [
+                    {
+                        "title": "Big Top Bunny - Bugs Bunny (1080p HBOMax).mkv",
+                        "date": "1951-12-12",
+                        "year": "1951",
+                        "peso": "440.63"
+                    }
+                ],
+                "episode": 1890792,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/6uXihWWp4fPXW7KoHqqq8cB2aHK.jpg",
+                "titulo_es": "Big Top Bunny",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Louvre Come Back to Me",
+                "title": "Looney Tunes",
+                "date": "2023-10-29",
+                "start_date": "07:02",
+                "end_date": "07:08",
+                "runtime": 6,
+                "description": "Pepe Le Pew se encuentra en Par\u00eds, donde se enamora de una gata que, molesta con su olor, escapa. Pepe Le Pew la persigue por la galer\u00eda de arte de Louvre.",
+                "episode_title": "Louvre Come Back to Me",
+                "release_year": "1962",
+                "status": [
+                    {
+                        "title": "Louvre Come Back To Me - Pepe LePew (Web).mkv",
+                        "date": "1962-08-18",
+                        "year": "1962",
+                        "peso": "682.09"
+                    }
+                ],
+                "episode": 1865330,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/8g01GVnvZ6Y1spsWBUnUsnptpKP.jpg",
+                "titulo_es": "Louvre Come Back to Me!",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-To Itch His Own",
+                "title": "Looney Tunes",
+                "date": "2023-10-29",
+                "start_date": "07:08",
+                "end_date": "07:14",
+                "runtime": 6,
+                "description": "El poderoso Angelo, el fisicoculturista extremadamente fuerte del circo de pulgas, ha estado trabajando demasiado y necesita unas vacaciones.",
+                "episode_title": "To Itch His Own",
+                "release_year": "1958",
+                "status": [
+                    {
+                        "title": "To Itch His Own (1080p HBOMax).mkv",
+                        "date": "1958-06-28",
+                        "year": "1958",
+                        "peso": "371.31"
+                    }
+                ],
+                "episode": 2406586,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/vK4TiNSk3HvEWKA92hUhKlfyV9e.jpg",
+                "titulo_es": "To Itch His Own",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Hop, Skip and a Chump",
+                "title": "Looney Tunes",
+                "date": "2023-10-29",
+                "start_date": "07:14",
+                "end_date": "07:22",
+                "runtime": 8,
+                "description": "Dos cuervos intentan atrapar a un saltamontes, pero esta misi\u00f3n es m\u00e1s dif\u00edcil de lo que imaginaron.",
+                "episode_title": "Hop, Skip and a Chump",
+                "release_year": "1942",
+                "status": [
+                    {
+                        "title": "Hop, Skip And A Chump (1080p HBOMax).mkv",
+                        "date": "1942-01-03",
+                        "year": "1942",
+                        "peso": "430.71"
+                    }
+                ],
+                "episode": 2110793,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/ackOIzRSZ8vyr54wqeMpYfb7kWR.jpg",
+                "titulo_es": "Hop, Skip and a Chump",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Hold the Lion, Please!",
+                "title": "Looney Tunes",
+                "date": "2023-10-29",
+                "start_date": "07:22",
+                "end_date": "07:32",
+                "runtime": 10,
+                "description": "Parece que todo el reino animal se burla del le\u00f3n y de c\u00f3mo sus d\u00edas de gloria han terminado. Ansioso por demostrarles lo contrario, el le\u00f3n decide intentar cazar un conejo, que no es otro m\u00e1s que Bugs.",
+                "episode_title": "Hold the Lion, Please!",
+                "release_year": "1942",
+                "status": [
+                    {
+                        "title": "Hold the Lion, Please - Bugs Bunny (COLOR) (1080p HBOMax).mkv",
+                        "date": "1942-06-13",
+                        "year": "1942",
+                        "peso": "519.45"
+                    }
+                ],
+                "episode": 2060234,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/yH5NK8auETxoPQ5Q1WG1bVm7TNr.jpg",
+                "titulo_es": "Hold the Lion, Please",
+                "repetido": false
+            }
+        ]
+    },
+    {
         "date": "2023-10-28",
         "programs": [
             {
