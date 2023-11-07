@@ -1,5 +1,238 @@
 [
     {
+        "date": "2023-11-06",
+        "programs": [
+            {
+                "id": "Looney Tunes-A Street Cat Named Sylvester",
+                "title": "Looney Tunes",
+                "date": "2023-11-06",
+                "start_date": "06:32",
+                "end_date": "06:39",
+                "runtime": 7,
+                "description": "El p\u00e1jaro Piol\u00edn se est\u00e1 helando en el fr\u00edo del invierno y busca calor en la casa de Abuelita.",
+                "episode_title": "A Street Cat Named Sylvester",
+                "release_year": "1953",
+                "status": [
+                    {
+                        "title": "A Street Cat Named Sylvester - Sylvester, Tweety, Granny, Hector (uncensored) (1080p HBOMax Latin America).mkv",
+                        "date": "1953-09-05",
+                        "year": "1953",
+                        "peso": "406.23"
+                    }
+                ],
+                "episode": 2162553,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/uVKFXF46tHN33sp8wZVam0R4EUZ.jpg",
+                "titulo_es": "A Street Cat Named Sylvester",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-My Favorite Duck",
+                "title": "Looney Tunes",
+                "date": "2023-11-06",
+                "start_date": "06:39",
+                "end_date": "06:47",
+                "runtime": 8,
+                "description": "Porky va de campamento, pero el Pato Lucas lo echa de todas partes porque dice que no es temporada de caza de patos. Luego de muchas bromas y d\u00edas, se abre la temporada de caza y el Pato Lucas debe correr por su vida.",
+                "episode_title": "My Favorite Duck",
+                "release_year": "1942",
+                "status": [
+                    {
+                        "title": "My Favorite Duck - Daffy Duck, Porky (COLOR) (Web).mkv",
+                        "date": "1942-12-04",
+                        "year": "1942",
+                        "peso": "442.22"
+                    }
+                ],
+                "episode": 1914840,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/m1NbDBV9N0L6zoNigNu1NXpJNfV.jpg",
+                "titulo_es": "My Favorite Duck",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Fistic Mystic",
+                "title": "Looney Tunes",
+                "date": "2023-11-06",
+                "start_date": "06:47",
+                "end_date": "06:53",
+                "runtime": 6,
+                "description": "Merl\u00edn y Second Banana llegan a Rattlesnake Gulch, un pueblo del oeste donde deben enfrentarse al mat\u00f3n del pueblo en una pelea.",
+                "episode_title": "Fistic Mystic",
+                "release_year": "1969",
+                "status": [
+                    {
+                        "title": "Fistic Mystic - Merlin (1080p HBOMax).mkv",
+                        "date": "1969-03-29",
+                        "year": "1969",
+                        "peso": "401.89"
+                    }
+                ],
+                "episode": 2251908,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/jRqvyxHIn9bKiQDXBeC7KE9zjN5.jpg",
+                "titulo_es": "Fistic Mystic",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-War and Pieces",
+                "title": "Looney Tunes",
+                "date": "2023-11-06",
+                "start_date": "06:53",
+                "end_date": "07:00",
+                "runtime": 7,
+                "description": "El Correcaminos se escapa del Coyote que contin\u00faa con su eterna racha de mala suerte para atrapar al Correcaminos.",
+                "episode_title": "War and Pieces",
+                "release_year": "1964",
+                "status": [
+                    {
+                        "title": "War And Pieces - Roadrunner, Wile E. Coyote (uncensored) (DVD).mkv",
+                        "date": "1964-06-06",
+                        "year": "1964",
+                        "peso": "198.55"
+                    },
+                    {
+                        "title": "War And Pieces - Roadrunner, Wile E. Coyote (uncensored) - 1080p (MeTV version w logo).mp4",
+                        "date": "1964-06-06",
+                        "year": "1964",
+                        "peso": "926.33"
+                    }
+                ],
+                "episode": 1973876,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/quVlVeDpDMopqqQgTe2OYoCqQW0.jpg",
+                "titulo_es": "War and Pieces",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Rabbit Rampage",
+                "title": "Looney Tunes",
+                "date": "2023-11-06",
+                "start_date": "07:00",
+                "end_date": "07:09",
+                "runtime": 9,
+                "description": "Elmer cambia el escenario que rodea la madriguera de Bugs Bunny y la cambia de sitio, lo que hace enfadar al conejo.",
+                "episode_title": "Rabbit Rampage",
+                "release_year": "1955",
+                "status": [
+                    {
+                        "title": "Rabbit Rampage - Bugs Bunny (w Daffy Duck) (1080p HBOMax).mkv",
+                        "date": "1955-06-11",
+                        "year": "1955",
+                        "peso": "427.43"
+                    }
+                ],
+                "episode": 1923027,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/sKGjLB8KdwmqTAiyA3eBSyN74v1.jpg",
+                "titulo_es": "Rabbit Rampage",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Rabbit Transit",
+                "title": "Looney Tunes",
+                "date": "2023-11-06",
+                "start_date": "07:09",
+                "end_date": "07:17",
+                "runtime": 8,
+                "description": "Bugs Bunny y Cecilio el Tortugo deciden tener su propia carrera estilo \"la liebre y la tortuga\". Luego de muchas bromas, Bugs Bunny gana la carrera, pero Cecilio llama a la polic\u00eda para que lo arresten porque el conejo cometi\u00f3 un exceso de velocidad.",
+                "episode_title": "Rabbit Transit",
+                "release_year": "1947",
+                "status": [
+                    {
+                        "title": "Rabbit Transit - Bugs Bunny, Cecil Turtle (1080p HBOMax).mkv",
+                        "date": "1947-05-10",
+                        "year": "1947",
+                        "peso": "497.59"
+                    }
+                ],
+                "episode": 2110823,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/r6yMzXy5KHfDhFLE0tQ8hFnpfYS.jpg",
+                "titulo_es": "Rabbit Transit",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Rocket-Bye Baby",
+                "title": "Looney Tunes",
+                "date": "2023-11-06",
+                "start_date": "07:17",
+                "end_date": "07:24",
+                "runtime": 7,
+                "description": "Durante el verano de 1954, la Tierra y Marte est\u00e1n tan cerca que, por accidente, un beb\u00e9 marciano es entregado en la casa de unos terr\u00edcolas. Joseph Wilbur y su esposa intentan criar al ingenioso beb\u00e9 marciano de piel verde como si fuera uno de ellos.",
+                "episode_title": "Rocket-Bye Baby",
+                "release_year": "1956",
+                "status": [
+                    {
+                        "title": "Rocket-bye Baby (BR).mkv",
+                        "date": "1956-08-04",
+                        "year": "1956",
+                        "peso": "474.67"
+                    }
+                ],
+                "episode": 2325027,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/9KRkMK5zP3aJGEAPW23lNjFtMGa.jpg",
+                "titulo_es": "Rocket-bye Baby",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Doggone People",
+                "title": "Looney Tunes",
+                "date": "2023-11-06",
+                "start_date": "07:24",
+                "end_date": "07:31",
+                "runtime": 7,
+                "description": "Elmer Gru\u00f1\u00f3n cuida al perro de su jefe para hacerle un favor.",
+                "episode_title": "Dog Gone People",
+                "release_year": "1960",
+                "status": [
+                    {
+                        "title": "Dog Gone People - Elmer (DVD).mkv",
+                        "date": "1960-11-12",
+                        "year": "1960",
+                        "peso": "161.90"
+                    },
+                    {
+                        "title": "Dog Gone People - Elmer (MeTV, 720p).mp4",
+                        "date": "1960-11-12",
+                        "year": "1960",
+                        "peso": "163.97"
+                    }
+                ],
+                "episode": 2054986,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/dCEnDxbRCnteSiAdvDDXqgqG8V8.jpg",
+                "titulo_es": "Dog Gone People",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Tortoise Wins By a Hare",
+                "title": "Looney Tunes",
+                "date": "2023-11-06",
+                "start_date": "07:31",
+                "end_date": "07:41",
+                "runtime": 10,
+                "description": "Bugs Bunny desaf\u00eda a Cecilio Tortuga a correr otra carrera. Enfadado por haber perdido la \u00faltima vez, Bugs Bunny se construye un caparaz\u00f3n de tortuga aerodin\u00e1mico pensando que lo ayudar\u00e1. \u00a1Sin embargo, Cecilio vuelve a ganar!",
+                "episode_title": "Tortoise Wins By a Hare",
+                "release_year": "1943",
+                "status": [
+                    {
+                        "title": "Tortoise Wins By A Hare - Bugs Bunny, Cecil Turtle (uncensored) (1080p HBOMax).mkv",
+                        "date": "1943-02-20",
+                        "year": "1943",
+                        "peso": "478.17"
+                    }
+                ],
+                "episode": 2135609,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/k5QCFlGJCxzObDm9XgkQQdeY82a.jpg",
+                "titulo_es": "Tortoise Wins by a Hare",
+                "repetido": false
+            }
+        ]
+    },
+    {
         "date": "2023-11-05",
         "programs": [
             {
