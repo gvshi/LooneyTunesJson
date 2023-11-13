@@ -19392,5 +19392,214 @@
                 "repetido": false
             }
         ]
+    },
+    {
+        "date": "2023-11-13",
+        "programs": [
+            {
+                "id": "Looney Tunes-The Egg-Cited Rooster",
+                "title": "Looney Tunes",
+                "date": "2023-11-13",
+                "start_date": "06:35",
+                "end_date": "06:41",
+                "runtime": 6,
+                "description": "La esposa del Gallo Claudio lo obliga a empollar su huevo. El perro comienza a molestarlo y Claudio debe conseguir que otra persona empolle el huevo para poder vengarse del perro.",
+                "episode_title": "The Egg-Cited Rooster",
+                "release_year": "1952",
+                "status": [
+                    {
+                        "title": "The EGGcited Rooster - Foghorn Leghorn, Henery, Br'er dog (1080p HBOMax Latin America).mkv",
+                        "date": "1952-09-27",
+                        "year": "1952",
+                        "peso": "420.03"
+                    }
+                ],
+                "episode": 1858465,
+                "season": 1,
+                "image": "https://xviewplus.mx/api/tv/v1/artworks/5398979486945010132/426x240.jpg",
+                "titulo_es": "",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Chewin' Bruin",
+                "title": "Looney Tunes",
+                "date": "2023-11-13",
+                "start_date": "06:41",
+                "end_date": "06:48",
+                "runtime": 7,
+                "description": "Porky listens to a hunter recount a story of how he hunted a ferocious bear that was after his chewing tobacco.",
+                "episode_title": "Chewin' Bruin",
+                "release_year": "1940",
+                "status": [
+                    {
+                        "title": "The Chewin' Bruin - Porky (DVD).mkv",
+                        "date": "1940-06-08a",
+                        "year": "1940",
+                        "peso": "176.03"
+                    },
+                    {
+                        "title": "The Chewin' Bruin - Porky - Redrawn and COLORIZED 1960s.mp4",
+                        "date": "1940-06-08b",
+                        "year": "1940",
+                        "peso": "370.45"
+                    },
+                    {
+                        "title": "The Chewin' Bruin - Porky COLORIZED 1990s.mkv",
+                        "date": "1940-06-08c",
+                        "year": "1940",
+                        "peso": "306.06"
+                    }
+                ],
+                "episode": 2484335,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/wmLl2aQhIlrIrgZXCzoJncZUFe0.jpg",
+                "titulo_es": "The Chewin' Bruin",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Bugs and Thugs",
+                "title": "Looney Tunes",
+                "date": "2023-11-13",
+                "start_date": "06:48",
+                "end_date": "06:57",
+                "runtime": 9,
+                "description": "Bugs Bunny se sube al taxi equivocado y pronto descubre que est\u00e1 en el veh\u00edculo de escape de unos g\u00e1nsters.",
+                "episode_title": "Bugs and Thugs",
+                "release_year": "1954",
+                "status": [
+                    {
+                        "title": "Bugs And Thugs - Bugs Bunny, Rocky & Mugsy (1080p HBOMax).mkv",
+                        "date": "1954-03-02",
+                        "year": "1954",
+                        "peso": "442.54"
+                    }
+                ],
+                "episode": 1923013,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/1Hrjb6FvgEywcLKAODBWMFaIOaH.jpg",
+                "titulo_es": "Bugs and Thugs",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-The Cagey Canary",
+                "title": "Looney Tunes",
+                "date": "2023-11-13",
+                "start_date": "06:57",
+                "end_date": "07:06",
+                "runtime": 9,
+                "description": "Un gato intenta atrapar a un canario , pero es detenido por la abuela y amenaza con echarlo en la lluvia. Por lo que el gato intenta tirar algunos trucos tortuosos para llegar al ave, pero sigue siendo interrumpido por el silbido del canario.",
+                "episode_title": "The Cagey Canary",
+                "release_year": "1941",
+                "status": [
+                    {
+                        "title": "The Cagey Canary (COLOR) (1080p HBOMax).mkv",
+                        "date": "1941-11-22a",
+                        "year": "1941",
+                        "peso": "500.95"
+                    }
+                ],
+                "episode": 2035806,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/dOAMgltzUKHSXaqavKQTVE7Bapw.jpg",
+                "titulo_es": "The Cagey Canary",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Broomstick Bunny",
+                "title": "Looney Tunes",
+                "date": "2023-11-13",
+                "start_date": "07:06",
+                "end_date": "07:13",
+                "runtime": 7,
+                "description": "Bugs Bunny visita a la bruja Hazel, que est\u00e1 enamorada de su propia fealdad y necesita un conejo para su guisado...",
+                "episode_title": "Broomstick Bunny",
+                "release_year": "1956",
+                "status": [
+                    {
+                        "title": "Broom-Stick Bunny - Bugs Bunny, Witch Hazel (1080p HBOMax).mkv",
+                        "date": "1956-02-25",
+                        "year": "1956",
+                        "peso": "440.05"
+                    }
+                ],
+                "episode": 2014865,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/h4Oubt5drN790sNlkgcxzToDJ9I.jpg",
+                "titulo_es": "Broom-Stick Bunny",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Silvestre est\u00e1 persiguiendo a Speedy Gonz\u00e1lez por toda la casa y termina cayendo en la piscina",
+                "title": "Looney Tunes",
+                "date": "2023-11-13",
+                "start_date": "07:13",
+                "end_date": "07:19",
+                "runtime": 6,
+                "description": "T1 -It's Nice to Have a Mouse Around the House. Silvestre est\u00e1 persiguiendo a Speedy Gonz\u00e1lez por toda la casa y termina cayendo en la piscina.",
+                "episode_title": "It's Nice to Have a Mouse Around the House",
+                "release_year": "1965",
+                "status": [
+                    {
+                        "title": "It's Nice To Have A Mouse Around The House - Speedy Gonzales, Sylvester, Daffy Duck, Granny - 1080p.mp4",
+                        "date": "1965-01-16",
+                        "year": "1965",
+                        "peso": "226.78"
+                    }
+                ],
+                "episode": 2024324,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/gcbGl5AL1nzcBGsjb5xtaVuJNGI.jpg",
+                "titulo_es": "It's Nice to Have a Mouse Around the House",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Captain Hareblower",
+                "title": "Looney Tunes",
+                "date": "2023-11-13",
+                "start_date": "07:19",
+                "end_date": "07:26",
+                "runtime": 7,
+                "description": "Bugs Bunny, capit\u00e1n de su barco, lucha contra el pirata Sam Bigotes.",
+                "episode_title": "Captain Hareblower",
+                "release_year": "1954",
+                "status": [
+                    {
+                        "title": "Captain Hareblower - Bugs Bunny, Yosemite Sam (1080p HBOMax).mkv",
+                        "date": "1954-01-16",
+                        "year": "1954",
+                        "peso": "427.68"
+                    }
+                ],
+                "episode": 1973849,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/tNPD6BMLWT4zmQdFwYnhjUUbxQb.jpg",
+                "titulo_es": "Captain Hareblower",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Lumber Jerks",
+                "title": "Looney Tunes",
+                "date": "2023-11-13",
+                "start_date": "07:26",
+                "end_date": "07:35",
+                "runtime": 9,
+                "description": "Cuando los topos Goofy Gophers se preparan para el invierno, un aserradero de la zona se lleva su \u00e1rbol. Mientras lo trituran en el aserradero, los roedores escapan a toda velocidad para estar a salvo.",
+                "episode_title": "Lumber Jerks",
+                "release_year": "1955",
+                "status": [
+                    {
+                        "title": "Lumber Jerks - Goofy Gophers (1080p HBOMax).mkv",
+                        "date": "1955-06-25",
+                        "year": "1955",
+                        "peso": "433.21"
+                    }
+                ],
+                "episode": 2226607,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/8kFNCYNvwEcCpYH9s4lPuIa24hg.jpg",
+                "titulo_es": "Lumber Jerks",
+                "repetido": false
+            }
+        ]
     }
 ]
