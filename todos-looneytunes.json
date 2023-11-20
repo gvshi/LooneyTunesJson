@@ -28277,5 +28277,178 @@
                 "repetido": false
             }
         ]
+    },
+    {
+        "date": "2023-11-20",
+        "programs": [
+            {
+                "id": "Looney Tunes-Cheese It, the Cat",
+                "title": "Looney Tunes",
+                "date": "2023-11-20",
+                "start_date": "06:33",
+                "end_date": "06:40",
+                "runtime": 7,
+                "description": "Los ratones Honeymousers necesitan alcanzar el pastel que hay en el refrigerador, pero un gato se interpone en su camino. Ahora parece que tendr\u00e1n que encontrar una forma inteligente de esquivar al gato.",
+                "episode_title": "Cheese It, the Cat",
+                "release_year": "1957",
+                "status": [
+                    {
+                        "title": "Cheese It, The Cat! - The Honeymousers (uncensored) (1080p HBOMax).mkv",
+                        "date": "1957-05-04",
+                        "year": "1957",
+                        "peso": "422.36"
+                    }
+                ],
+                "episode": 2484334,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/3x1C0QHtKQr1fV1kuCky36d2LpA.jpg",
+                "titulo_es": "Cheese It, the Cat!",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Tick Tock Tuckered",
+                "title": "Looney Tunes",
+                "date": "2023-11-20",
+                "start_date": "06:40",
+                "end_date": "06:47",
+                "runtime": 7,
+                "description": "Porky y Lucas son compa\u00f1eros de cuarto que tienen problemas para llegar a tiempo al trabajo.",
+                "episode_title": "Tick Tock Tuckered",
+                "release_year": "1944",
+                "status": [
+                    {
+                        "title": "Tick Tock Tuckered - Daffy Duck, Porky; Color remake of Porky's Badtime Story (1937) (1080p HBOMax).mkv",
+                        "date": "1944-04-08",
+                        "year": "1944",
+                        "peso": "446.63"
+                    }
+                ],
+                "episode": 1914849,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/70ecUFgg5d5vwQfVhhar5gJrf6P.jpg",
+                "titulo_es": "Tick Tock Tuckered",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-The Egg Collector",
+                "title": "Looney Tunes",
+                "date": "2023-11-20",
+                "start_date": "06:47",
+                "end_date": "06:57",
+                "runtime": 10,
+                "description": "Sniffles y su amigo, el rat\u00f3n de biblioteca, se juntan y leen sobre lechuzas.",
+                "episode_title": "The Egg Collector",
+                "release_year": "1940",
+                "status": [
+                    {
+                        "title": "The Egg Collector - Sniffles (COLOR) (1080p HBOMax).mkv",
+                        "date": "1940-07-20",
+                        "year": "1940",
+                        "peso": "488.68"
+                    }
+                ],
+                "episode": 2060241,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/2Jb5MaIUHWz2u91mPxoDwltDXSb.jpg",
+                "titulo_es": "El recolector de huevos",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-A Hound for Trouble",
+                "title": "Looney Tunes",
+                "date": "2023-11-20",
+                "start_date": "06:57",
+                "end_date": "07:04",
+                "runtime": 7,
+                "description": "Expulsado del barco en Italia, el perro Charlie se impone al due\u00f1o de una pizzer\u00eda. Con su mejor atuendo y acento italiano, Charlie se pone a trabajar como camarero, asombrando y horrorizando a los clientes con sus pisadas descalzas y su interpretaci\u00f3n musical de \"Atsa Matta for You?\".",
+                "episode_title": "A Hound for Trouble",
+                "release_year": "1951",
+                "status": [
+                    {
+                        "title": "A Hound For Trouble - Charlie Dog (1080p HBOMax).mkv",
+                        "date": "1951-04-28",
+                        "year": "1951",
+                        "peso": "438.60"
+                    }
+                ],
+                "episode": 2456028,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/5Ay7EkGlPpRgzDfYDUciqglvI4v.jpg",
+                "titulo_es": "A Hound for Trouble",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-A Taste of Catnip",
+                "title": "Looney Tunes",
+                "date": "2023-11-20",
+                "start_date": "07:04",
+                "end_date": "07:11",
+                "runtime": 7,
+                "description": "El pato Lucas visita a un psiquiatra para hablarle de su obsesi\u00f3n con Speedy Gonz\u00e1lez. No s\u00f3lo quiere com\u00e9rselo sino que tambi\u00e9n est\u00e1 comenzando a adoptar las caracter\u00edsticas de un gato.",
+                "episode_title": "A Taste of Catnip",
+                "release_year": "1966",
+                "status": [
+                    {
+                        "title": "A Taste Of Catnip - Daffy Duck, Speedy Gonzales, Sylvester (uncensored) - 1080p Warnermedia Ride App Version.mp4",
+                        "date": "1966-12-03",
+                        "year": "1966",
+                        "peso": "955.59"
+                    }
+                ],
+                "episode": 2035787,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/70HD5TslUqL8XUYb1qAT6wUCjLO.jpg",
+                "titulo_es": "A Taste of Catnip",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-I Was a Teenage Thumb",
+                "title": "Looney Tunes",
+                "date": "2023-11-20",
+                "start_date": "07:11",
+                "end_date": "07:18",
+                "runtime": 7,
+                "description": "Prunehilda quiere tener un beb\u00e9 m\u00e1s peque\u00f1o que su pulgar. Un mago escucha su deseo y se lo concede.",
+                "episode_title": "I Was a Teenage Thumb",
+                "release_year": "1963",
+                "status": [
+                    {
+                        "title": "I Was A Teenage Thumb (uncensored) - 1080p Warnermedia Ride App Version.mp4",
+                        "date": "1963-01-19",
+                        "year": "1963",
+                        "peso": "922.96"
+                    }
+                ],
+                "episode": 2151833,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/dyp71oop00UOENBTliBLpPluN23.jpg",
+                "titulo_es": "I Was a Teenage Thumb",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Tree for Two",
+                "title": "Looney Tunes",
+                "date": "2023-11-20",
+                "start_date": "07:18",
+                "end_date": "07:27",
+                "runtime": 9,
+                "description": "Dos perros persiguen a Silvestre hasta un callej\u00f3n. Los perros creen que lo tienen acorralado, pero en realidad encontraron una pantera negra que se escap\u00f3.",
+                "episode_title": "Tree for Two",
+                "release_year": "1952",
+                "status": [
+                    {
+                        "title": "Tree For Two - Sylvester, Spike & Chester (uncensored) (1080p HBOMax).mkv",
+                        "date": "1952-10-04",
+                        "year": "1952",
+                        "peso": "417.13"
+                    }
+                ],
+                "episode": 2269223,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/6UdovbTuOi8kfD8X69bIlc3qxDc.jpg",
+                "titulo_es": "Tree for Two",
+                "repetido": false
+            }
+        ]
     }
 ]
