@@ -31071,5 +31071,483 @@
                 "repetido": false
             }
         ]
+    },
+    {
+        "date": "2023-12-04",
+        "programs": [
+            {
+                "id": "Looney Tunes-Gee Whiz-Z-Z",
+                "title": "Looney Tunes",
+                "date": "2023-12-04",
+                "start_date": "06:26",
+                "end_date": "06:33",
+                "runtime": 7,
+                "description": "El Coyote trata de atrapar al Correcaminos. Para eso, usa un traje de Batman marca Acme.",
+                "episode_title": "Gee Whiz-Z-Z",
+                "release_year": "1956",
+                "status": [
+                    {
+                        "title": "Gee Whiz-z-z-z-z-z-z - Roadrunner, Wile E. Coyote (uncensored) (1080p HBOMax).mkv",
+                        "date": "1956-05-05",
+                        "year": "1956",
+                        "peso": "404.84"
+                    }
+                ],
+                "episode": 1973858,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/3ZAJVd0GVowF1fKmRkXDkVnUyN8.jpg",
+                "titulo_es": "Gee Whiz-z-z-z-z-z-z",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Daffy Duck Hunt",
+                "title": "Looney Tunes",
+                "date": "2023-12-04",
+                "start_date": "06:33",
+                "end_date": "06:40",
+                "runtime": 7,
+                "description": "Porky sale a cazar con su perro. En el camino se topan con el Pato Lucas, a quien llevan vivo a su hogar para ponerlo en el freezer hasta que sea el momento de cocinarlo. Sin embargo, Lucas no les har\u00e1 la tarea nada sencilla.",
+                "episode_title": "Daffy Duck Hunt",
+                "release_year": "1949",
+                "status": [
+                    {
+                        "title": "Daffy Duck Hunt - Daffy Duck (1080p HBOMax).mkv",
+                        "date": "1949-03-26",
+                        "year": "1949",
+                        "peso": "444.26"
+                    }
+                ],
+                "episode": 2054985,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/atisblukXYkg1Z1yglCEQaeoiiM.jpg",
+                "titulo_es": "Daffy Duck Hunt",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Lumber Jerks",
+                "title": "Looney Tunes",
+                "date": "2023-12-04",
+                "start_date": "06:40",
+                "end_date": "06:46",
+                "runtime": 6,
+                "description": "Cuando los topos Goofy Gophers se preparan para el invierno, un aserradero de la zona se lleva su \u00e1rbol. Mientras lo trituran en el aserradero, los roedores escapan a toda velocidad para estar a salvo.",
+                "episode_title": "Lumber Jerks",
+                "release_year": "1955",
+                "status": [
+                    {
+                        "title": "Lumber Jerks - Goofy Gophers (1080p HBOMax).mkv",
+                        "date": "1955-06-25",
+                        "year": "1955",
+                        "peso": "433.21"
+                    }
+                ],
+                "episode": 2226607,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/8kFNCYNvwEcCpYH9s4lPuIa24hg.jpg",
+                "titulo_es": "Lumber Jerks",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Quacker Tracker",
+                "title": "Looney Tunes",
+                "date": "2023-12-04",
+                "start_date": "06:46",
+                "end_date": "06:54",
+                "runtime": 8,
+                "description": "Una destacada sociedad de caza promete una membres\u00eda de por vida para quien pueda atrapar a Speedy.",
+                "episode_title": "Quacker Tracker",
+                "release_year": "1967",
+                "status": [
+                    {
+                        "title": "Quacker Tracker - Daffy Duck, Speedy Gonzales (VHS).mkv",
+                        "date": "1967-04-29",
+                        "year": "1967",
+                        "peso": "100.50"
+                    }
+                ],
+                "episode": 1914843,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/dT1CJNE1ByqbDzjK0Par0vGivX4.jpg",
+                "titulo_es": "Quacker Tracker",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Prehistoric Porky",
+                "title": "Looney Tunes",
+                "date": "2023-12-04",
+                "start_date": "06:54",
+                "end_date": "07:02",
+                "runtime": 8,
+                "description": "Caveman Porky, searching for a new fur suit, finds the animals violently reluctant to part with their pelts.",
+                "episode_title": "Prehistoric Porky",
+                "release_year": "1940",
+                "status": [
+                    {
+                        "title": "Prehistoric Porky - Porky (1080p HBOMax).mkv",
+                        "date": "1940-10-12a",
+                        "year": "1940",
+                        "peso": "448.43"
+                    },
+                    {
+                        "title": "Prehistoric Porky - Porky - Redrawn and COLORIZED 1960s.mp4",
+                        "date": "1940-10-12b",
+                        "year": "1940",
+                        "peso": "83.24"
+                    },
+                    {
+                        "title": "Prehistoric Porky - Porky COLORIZED 1990s.mkv",
+                        "date": "1940-10-12c",
+                        "year": "1940",
+                        "peso": "329.90"
+                    }
+                ],
+                "episode": 3128699,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/oJlj5wH2uuI5gIPmgWpJtRT3LXU.jpg",
+                "titulo_es": "Prehistoric Porky",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-A Squeak in the Deep",
+                "title": "Looney Tunes",
+                "date": "2023-12-04",
+                "start_date": "07:02",
+                "end_date": "07:08",
+                "runtime": 6,
+                "description": "Tanto Speedy Gonz\u00e1lez como el pato Lucas se inscriben en una carrera de botes y compiten para ganar la carrera.",
+                "episode_title": "A Squeak in the Deep",
+                "release_year": "1966",
+                "status": [
+                    {
+                        "title": "A Squeak In The Deep - Daffy Duck, Speedy Gonzales - 1080p (MeTV version w logo).mp4",
+                        "date": "1966-07-19",
+                        "year": "1966",
+                        "peso": "158.95"
+                    }
+                ],
+                "episode": 2199775,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/aCkb0KsOaZQ2wL965BCB0zMvT0S.jpg",
+                "titulo_es": "A Squeak in the Deep",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Backwoods Bunny",
+                "title": "Looney Tunes",
+                "date": "2023-12-04",
+                "start_date": "07:08",
+                "end_date": "07:15",
+                "runtime": 7,
+                "description": "Bugs Bunny usa su ingenio para tener ventaja sobre dos gavilanes de campo que tratan de atraparlo para cocinarlo en su guisado.",
+                "episode_title": "Backwoods Bunny",
+                "release_year": "1959",
+                "status": [
+                    {
+                        "title": "Backwoods Bunny - Bugs Bunny, Pappy & Elvis (buzzards) (BR).mkv",
+                        "date": "1959-06-13",
+                        "year": "1959",
+                        "peso": "95.73"
+                    }
+                ],
+                "episode": 1923011,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/ifZOUlPYU8Y1vtR7fO4b5e6nNK7.jpg",
+                "titulo_es": "Backwoods Bunny",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Person to Bunny",
+                "title": "Looney Tunes",
+                "date": "2023-12-04",
+                "start_date": "07:15",
+                "end_date": "07:21",
+                "runtime": 6,
+                "description": "Mientras Elmer entrevista a Bugs Bunny, el conejo lo insulta, y luego Elmer le exige una disculpa. Lucas hace lo imposible para salir en televisi\u00f3n, pero termina teniendo miedo esc\u00e9nico.",
+                "episode_title": "Person to Bunny",
+                "release_year": "1960",
+                "status": [
+                    {
+                        "title": "Person To Bunny - Bugs Bunny, Daffy Duck, Elmer (uncensored) (BR).mkv",
+                        "date": "1960-04-01",
+                        "year": "1960",
+                        "peso": "108.68"
+                    }
+                ],
+                "episode": 1923025,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/fh49t15b1yrLs7S0ks3UHDiyjhs.jpg",
+                "titulo_es": "Person to Bunny",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Hop, Look and Listen",
+                "title": "Looney Tunes",
+                "date": "2023-12-04",
+                "start_date": "07:21",
+                "end_date": "07:30",
+                "runtime": 9,
+                "description": "En el zool\u00f3gico, un canguro beb\u00e9 llamado Hippety Hopper se escapa de su jaula para explorar un rato.",
+                "episode_title": "Hop, Look and Listen",
+                "release_year": "1948",
+                "status": [
+                    {
+                        "title": "Hop, Look And Listen - Sylvester, Hippity Hopper, McKimson bulldog (1080p HBOMax).mkv",
+                        "date": "1948-04-17",
+                        "year": "1948",
+                        "peso": "435.57"
+                    }
+                ],
+                "episode": 2110792,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/mdZFThApCPsV1aqaeK5IADcbwU.jpg",
+                "titulo_es": "Hop, Look and Listen",
+                "repetido": false
+            }
+        ]
+    },
+    {
+        "date": "2023-12-08",
+        "programs": [
+            {
+                "id": "Looney Tunes-Feed the Kitty",
+                "title": "Looney Tunes",
+                "date": "2023-12-08",
+                "start_date": "06:30",
+                "end_date": "06:36",
+                "runtime": 6,
+                "description": "Marco Antonio, el feroz bulldog, adopta a un gatito pero no puede permitir que sus due\u00f1os lo sepan.",
+                "episode_title": "Feed the Kitty",
+                "release_year": "1952",
+                "status": [
+                    {
+                        "title": "Feed The Kitty - Pussyfoot, Marc Antony (1080p HBOMax).mkv",
+                        "date": "1952-02-02",
+                        "year": "1952",
+                        "peso": "453.63"
+                    }
+                ],
+                "episode": 2158311,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/vso5zGYGzUMsxsI4FH0Q4B1iX3X.jpg",
+                "titulo_es": "Feed the Kitty",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Have You Got Any Castles?",
+                "title": "Looney Tunes",
+                "date": "2023-12-08",
+                "start_date": "06:36",
+                "end_date": "06:42",
+                "runtime": 6,
+                "description": "Un musical ilustrado que cobra vida con los personajes de libros famosos, lleno de m\u00fasica, bromas y dise\u00f1o.",
+                "episode_title": "Have You Got Any Castles?",
+                "release_year": "1938",
+                "status": [
+                    {
+                        "title": "Have You Got Any Castles (COLOR) (uncensored) (DVD).mkv",
+                        "date": "1938-06-25d",
+                        "year": "1938",
+                        "peso": "301.19"
+                    }
+                ],
+                "episode": 2158315,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/GkQJuTBGSNzZk3Q5FPEXQWwez4.jpg",
+                "titulo_es": "Have You Got Any Castles?",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-A-Haunting We Will Go",
+                "title": "Looney Tunes",
+                "date": "2023-12-08",
+                "start_date": "06:42",
+                "end_date": "06:48",
+                "runtime": 6,
+                "description": "En Noche de Brujas, Lucas trata de demostrarle a su sobrino que no existen las brujas.",
+                "episode_title": "A-Haunting We Will Go",
+                "release_year": "1966",
+                "status": [
+                    {
+                        "title": "A-Haunting We Will Go - Daffy Duck, Speedy Gonzales, Witch Hazel (BR).mkv",
+                        "date": "1966-04-26",
+                        "year": "1966",
+                        "peso": "467.02"
+                    }
+                ],
+                "episode": 1933205,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/1aqywibLOgaDbrOxdUsmkKvCCHD.jpg",
+                "titulo_es": "A-Haunting We Will Go",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Feline Frame-Up",
+                "title": "Looney Tunes",
+                "date": "2023-12-08",
+                "start_date": "06:48",
+                "end_date": "06:54",
+                "runtime": 6,
+                "description": "Marco Antonio se mete en problemas cuando Claudio lo enga\u00f1a para tratar de comerse a Pussyfoot.",
+                "episode_title": "Feline Frame-Up",
+                "release_year": "1954",
+                "status": [
+                    {
+                        "title": "Feline Frame-Up - Marc Anthony, Pussyfoot, Claude Cat (1080p HBOMax).mkv",
+                        "date": "1954-02-13",
+                        "year": "1954",
+                        "peso": "399.03"
+                    }
+                ],
+                "episode": 2461549,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/kOd8BRTbex7KFXJw7843gTigxOJ.jpg",
+                "titulo_es": "Feline Frame-Up",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Porky Chops",
+                "title": "Looney Tunes",
+                "date": "2023-12-08",
+                "start_date": "06:54",
+                "end_date": "07:00",
+                "runtime": 6,
+                "description": "Porky est\u00e1 tratando de talar un \u00e1rbol, pero una ardilla que vive all\u00ed lucha por salvarlo.",
+                "episode_title": "Porky Chops",
+                "release_year": "1949",
+                "status": [
+                    {
+                        "title": "Porky Chops - Porky (uncensored) (1080p HBOMax).mkv",
+                        "date": "1949-02-12",
+                        "year": "1949",
+                        "peso": "428.36"
+                    }
+                ],
+                "episode": 2314438,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/h4CK66ZA7zVNcwfeHzyT5j6pMFh.jpg",
+                "titulo_es": "Porky Chops",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Zipping Along",
+                "title": "Looney Tunes",
+                "date": "2023-12-08",
+                "start_date": "07:00",
+                "end_date": "07:06",
+                "runtime": 6,
+                "description": "El Correcaminos supera en velocidad a una locomotora y luego atropella y derriba una y otra vez al Coyote al llegar a una intersecci\u00f3n.",
+                "episode_title": "Zipping Along",
+                "release_year": "1953",
+                "status": [
+                    {
+                        "title": "Zipping Along - Roadrunner, Wile E. Coyote (uncensored) (1080p HBOMax).mkv",
+                        "date": "1953-09-19",
+                        "year": "1953",
+                        "peso": "420.44"
+                    }
+                ],
+                "episode": 1890815,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/wYJkpmI4DNpihGEz2S9QBefRZLh.jpg",
+                "titulo_es": "Zipping Along",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Hareless Wolf",
+                "title": "Looney Tunes",
+                "date": "2023-12-08",
+                "start_date": "07:06",
+                "end_date": "07:12",
+                "runtime": 6,
+                "description": "El lobo Charles es obligado por su esposa a ir a cazar un conejo que pueda cocinar para la cena.",
+                "episode_title": "Hareless Wolf",
+                "release_year": "1958",
+                "status": [
+                    {
+                        "title": "Hare-Less Wolf - Bugs Bunny, forgetful wolf (uncensored) (1080p HBOMax).mkv",
+                        "date": "1958-02-01",
+                        "year": "1958",
+                        "peso": "409.01"
+                    }
+                ],
+                "episode": 1883744,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/fRjbOjOBu1iTT9Uq3waX4nnInWj.jpg",
+                "titulo_es": "Hare-Less Wolf",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Swallow the Leader",
+                "title": "Looney Tunes",
+                "date": "2023-12-08",
+                "start_date": "07:12",
+                "end_date": "07:18",
+                "runtime": 6,
+                "description": "Cada a\u00f1o, las golondrinas regresan a San Juan Capistrano y siempre hay amantes de las aves listos para recibirlas. Este a\u00f1o, un gato hambriento tambi\u00e9n espera su regreso.",
+                "episode_title": "Swallow the Leader",
+                "release_year": "1949",
+                "status": [
+                    {
+                        "title": "Swallow The Leader - McKimson cat (1080p HBOMax).mkv",
+                        "date": "1949-10-14",
+                        "year": "1949",
+                        "peso": "455.13"
+                    }
+                ],
+                "episode": 2035800,
+                "season": 0,
+                "image": "https://image.tmdb.org/t/p/w500/mPlcaiy35wPmM46U90vVBJfzsXK.jpg",
+                "titulo_es": "Swallow the Leader",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Aqua Duck",
+                "title": "Looney Tunes",
+                "date": "2023-12-08",
+                "start_date": "07:18",
+                "end_date": "07:24",
+                "runtime": 6,
+                "description": "Perdido en el desierto, el Pato Lucas encuentra una pepita de oro y no est\u00e1 dispuesto a desprenderse de ella a pesar de que necesita urgentemente agua.",
+                "episode_title": "Aqua Duck",
+                "release_year": "1963",
+                "status": [
+                    {
+                        "title": "Aqua Duck \u2013 Daffy Duck (uncensored) - 1080p (MeTV version w logo).mp4",
+                        "date": "1963-09-28",
+                        "year": "1963",
+                        "peso": "156.49"
+                    }
+                ],
+                "episode": 1933218,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/asGPlp6udTd0U0fkU717aWVa28K.jpg",
+                "titulo_es": "Aqua Duck",
+                "repetido": false
+            },
+            {
+                "id": "Looney Tunes-Roman Legion Hare",
+                "title": "Looney Tunes",
+                "date": "2023-12-08",
+                "start_date": "07:24",
+                "end_date": "07:30",
+                "runtime": 6,
+                "description": "En el coliseo Romano, las v\u00edctimas se lanzan como alimento para los leones. Cuando el Emperador necesita m\u00e1s v\u00edctimas, Sam Bigotes elige a Bugs Bunny.",
+                "episode_title": "Roman Legion Hare",
+                "release_year": "1955",
+                "status": [
+                    {
+                        "title": "Roman Legion-Hare - Bugs Bunny, Yosemite Sam (uncensored) (1080p HBOMax).mkv",
+                        "date": "1955-11-12",
+                        "year": "1955",
+                        "peso": "449.70"
+                    }
+                ],
+                "episode": 1973871,
+                "season": 1,
+                "image": "https://image.tmdb.org/t/p/w500/u7QyFPEXDlHWC11Wn8o51QX7uU4.jpg",
+                "titulo_es": "Roman Legion-Hare",
+                "repetido": false
+            }
+        ]
     }
 ]
